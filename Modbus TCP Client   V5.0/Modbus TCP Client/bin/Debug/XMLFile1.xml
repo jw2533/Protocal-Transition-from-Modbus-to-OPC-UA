@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <ipadd>127.0.0.1</ipadd>
+  <port>502</port> 
+  <isecond>1000</isecond>
+</config>

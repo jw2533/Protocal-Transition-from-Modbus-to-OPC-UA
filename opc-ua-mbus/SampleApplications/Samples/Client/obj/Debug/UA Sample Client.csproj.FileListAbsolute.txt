@@ -1,0 +1,11 @@
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\bin\Debug\Opc.Ua.SampleClient.Config.xml
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\bin\Debug\Opc.Ua.SampleClient.Endpoints.xml
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\bin\Debug\Opc.Ua.SampleClient.exe.config
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\bin\Debug\Opc.Ua.SampleClient.exe
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\bin\Debug\Opc.Ua.SampleClient.pdb
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Client\obj\Debug\UA Sample Client.csprojResolveAssemblyReference.cache
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Client\obj\Debug\Opc.Ua.Sample.Properties.Resources.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Client\obj\Debug\Opc.Ua.Sample.SampleClientForm.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Client\obj\Debug\UA Sample Client.csproj.GenerateResource.Cache
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Client\obj\Debug\Opc.Ua.SampleClient.exe
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Client\obj\Debug\Opc.Ua.SampleClient.pdb

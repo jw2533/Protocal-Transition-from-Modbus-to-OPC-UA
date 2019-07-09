@@ -1,0 +1,15 @@
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\bin\Debug\Opc.Ua.SampleLibrary.dll
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\bin\Debug\Opc.Ua.SampleLibrary.pdb
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Common\obj\Debug\UA Sample Library.csprojResolveAssemblyReference.cache
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Common\obj\Debug\Opc.Ua.SampleLibrary.dll
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Common\obj\Debug\Opc.Ua.SampleLibrary.pdb
+E:\opc-ua-fianl\SampleApplications\bin\Debug\Opc.Ua.SampleLibrary.dll
+E:\opc-ua-fianl\SampleApplications\bin\Debug\Opc.Ua.SampleLibrary.pdb
+E:\opc-ua-fianl\SampleApplications\Samples\Common\obj\Debug\UA Sample Library.csprojResolveAssemblyReference.cache
+E:\opc-ua-fianl\SampleApplications\Samples\Common\obj\Debug\Opc.Ua.SampleLibrary.dll
+E:\opc-ua-fianl\SampleApplications\Samples\Common\obj\Debug\Opc.Ua.SampleLibrary.pdb
+E:\opc-ua-mbus\SampleApplications\bin\Debug\Opc.Ua.SampleLibrary.dll
+E:\opc-ua-mbus\SampleApplications\bin\Debug\Opc.Ua.SampleLibrary.pdb
+E:\opc-ua-mbus\SampleApplications\Samples\Common\obj\Debug\UA Sample Library.csprojResolveAssemblyReference.cache
+E:\opc-ua-mbus\SampleApplications\Samples\Common\obj\Debug\Opc.Ua.SampleLibrary.dll
+E:\opc-ua-mbus\SampleApplications\Samples\Common\obj\Debug\Opc.Ua.SampleLibrary.pdb

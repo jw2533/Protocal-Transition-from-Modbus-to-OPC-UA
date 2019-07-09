@@ -1,0 +1,110 @@
+﻿Build started 2017/9/15 12:51:49.
+     1>Project "E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\Wrapper\ProxyServer\UA COM Proxy Server.vcxproj" on node 5 (Rebuild target(s)).
+     1>CustomBuild:
+         Performing Custom Build Tools
+         已复制         1 个文件。
+         Performing Custom Build Tools
+         已复制         1 个文件。
+       Midl:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\midl.exe /I..\Include /I..\..\..\Include /W1 /nologo /char signed /env win32 /h "OpcUaComProxyServer.h" /iid "OpcUaComProxyServer_i.c" /tlb "..\..\bin\debug\intermediate\UA COM Proxy Server\UA COM Proxy Server.tlb" OpcUaComProxyServer.idl 
+         Processing .\OpcUaComProxyServer.idl
+         OpcUaComProxyServer.idl
+         Processing ..\Include\opccomn.idl
+         opccomn.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\comcat.idl
+         comcat.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\unknwn.idl
+         unknwn.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\wtypes.idl
+         wtypes.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\wtypesbase.idl
+         wtypesbase.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h
+         basetsd.h
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\guiddef.h
+         guiddef.h
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\oaidl.idl
+         oaidl.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\objidl.idl
+         objidl.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\ocidl.idl
+         ocidl.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\oleidl.idl
+         oleidl.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\servprov.idl
+         servprov.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\urlmon.idl
+         urlmon.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\msxml.idl
+         msxml.idl
+         Processing ..\Include\opcda.idl
+         opcda.idl
+         Processing ..\Include\opc_ae.idl
+         opc_ae.idl
+         Processing ..\Include\opchda.idl
+         opchda.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\oaidl.acf
+         oaidl.acf
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\ocidl.acf
+         ocidl.acf
+       ClCompile:
+         D:\Program Files (x86)\VC\bin\CL.exe /c /I"E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\Wrapper\ProxyServer\\" /I..\Common /I..\Include /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D xOPCUA_NO_DA3_SUPPORT /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"..\..\bin\debug\intermediate\UA COM Proxy Server\UA COM Proxy Server.pch" /Fo"..\..\bin\debug\intermediate\UA COM Proxy Server\\" /Fd"..\..\bin\debug\intermediate\UA COM Proxy Server\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\mscorlib.dll" /FU"E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\bin\Debug\Opc.Ua.Client.dll" /FU"E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\bin\Debug\Opc.Ua.ComInterop.dll" /FU"E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\bin\Debug\Opc.Ua.Configuration.dll" /FU"E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\Stack\Core\bin\Debug\Opc.Ua.Core.dll" /FU"E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\bin\Debug\Opc.Ua.Server.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.XML.dll" /analyze- /errorReport:prompt /clr:nostdlib Ae\COpcEnumStringWrapper.cpp Ae\COpcUaAe2ProxyBrowser.cpp Ae\COpcUaAe2ProxyEventCallback.cpp Ae\COpcUaAe2ProxyServer.cpp Ae\COpcUaAe2ProxySubscription.cpp AssemblyInfo.cpp COpcProxyUtils.cpp Da\COpcUaDaProxyEnumItem.cpp Da\COpcUaDaProxyGroup.cpp Da\COpcUaDaProxyGroupCallback.cpp Da\COpcUaDaProxyServer.cpp Hda\COpcHdaTime.cpp Hda\COpcUaHdaProxyBrowser.cpp Hda\COpcUaHdaProxyDataCallback.cpp Hda\COpcUaHdaProxyServer.cpp Main.cpp OpcUaComProxyServer.cpp StdAfx.cpp
+         COpcEnumStringWrapper.cpp
+     1>Ae\COpcEnumStringWrapper.cpp : fatal error C1192: #using failed on 'E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\bin\Debug\Opc.Ua.ComInterop.dll'
+                 '系统找不到指定的文件。'
+         COpcUaAe2ProxyBrowser.cpp
+     1>Ae\COpcUaAe2ProxyBrowser.cpp : fatal error C1192: #using failed on 'E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\bin\Debug\Opc.Ua.ComInterop.dll'
+                 '系统找不到指定的文件。'
+         COpcUaAe2ProxyEventCallback.cpp
+     1>Ae\COpcUaAe2ProxyEventCallback.cpp : fatal error C1192: #using failed on 'E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\bin\Debug\Opc.Ua.ComInterop.dll'
+                 '系统找不到指定的文件。'
+         COpcUaAe2ProxyServer.cpp
+     1>Ae\COpcUaAe2ProxyServer.cpp : fatal error C1192: #using failed on 'E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\bin\Debug\Opc.Ua.ComInterop.dll'
+                 '系统找不到指定的文件。'
+         COpcUaAe2ProxySubscription.cpp
+     1>Ae\COpcUaAe2ProxySubscription.cpp : fatal error C1192: #using failed on 'E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\bin\Debug\Opc.Ua.ComInterop.dll'
+                 '系统找不到指定的文件。'
+         AssemblyInfo.cpp
+     1>AssemblyInfo.cpp : fatal error C1192: #using failed on 'E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\bin\Debug\Opc.Ua.ComInterop.dll'
+                 '系统找不到指定的文件。'
+         COpcProxyUtils.cpp
+     1>COpcProxyUtils.cpp : fatal error C1192: #using failed on 'E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\bin\Debug\Opc.Ua.ComInterop.dll'
+                 '系统找不到指定的文件。'
+         COpcUaDaProxyEnumItem.cpp
+     1>Da\COpcUaDaProxyEnumItem.cpp : fatal error C1192: #using failed on 'E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\bin\Debug\Opc.Ua.ComInterop.dll'
+                 '系统找不到指定的文件。'
+         COpcUaDaProxyGroup.cpp
+     1>Da\COpcUaDaProxyGroup.cpp : fatal error C1192: #using failed on 'E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\bin\Debug\Opc.Ua.ComInterop.dll'
+                 '系统找不到指定的文件。'
+         COpcUaDaProxyGroupCallback.cpp
+     1>Da\COpcUaDaProxyGroupCallback.cpp : fatal error C1192: #using failed on 'E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\bin\Debug\Opc.Ua.ComInterop.dll'
+                 '系统找不到指定的文件。'
+         COpcUaDaProxyServer.cpp
+     1>Da\COpcUaDaProxyServer.cpp : fatal error C1192: #using failed on 'E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\bin\Debug\Opc.Ua.ComInterop.dll'
+                 '系统找不到指定的文件。'
+         COpcHdaTime.cpp
+     1>Hda\COpcHdaTime.cpp : fatal error C1192: #using failed on 'E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\bin\Debug\Opc.Ua.ComInterop.dll'
+                 '系统找不到指定的文件。'
+         COpcUaHdaProxyBrowser.cpp
+     1>Hda\COpcUaHdaProxyBrowser.cpp : fatal error C1192: #using failed on 'E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\bin\Debug\Opc.Ua.ComInterop.dll'
+                 '系统找不到指定的文件。'
+         COpcUaHdaProxyDataCallback.cpp
+     1>Hda\COpcUaHdaProxyDataCallback.cpp : fatal error C1192: #using failed on 'E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\bin\Debug\Opc.Ua.ComInterop.dll'
+                 '系统找不到指定的文件。'
+         COpcUaHdaProxyServer.cpp
+     1>Hda\COpcUaHdaProxyServer.cpp : fatal error C1192: #using failed on 'E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\bin\Debug\Opc.Ua.ComInterop.dll'
+                 '系统找不到指定的文件。'
+         Main.cpp
+     1>Main.cpp : fatal error C1192: #using failed on 'E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\bin\Debug\Opc.Ua.ComInterop.dll'
+                 '系统找不到指定的文件。'
+         OpcUaComProxyServer.cpp
+     1>OpcUaComProxyServer.cpp : fatal error C1192: #using failed on 'E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\bin\Debug\Opc.Ua.ComInterop.dll'
+                 '系统找不到指定的文件。'
+         StdAfx.cpp
+     1>StdAfx.cpp : fatal error C1192: #using failed on 'E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\bin\Debug\Opc.Ua.ComInterop.dll'
+                 '系统找不到指定的文件。'
+     1>Done Building Project "E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\Wrapper\ProxyServer\UA COM Proxy Server.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:07.90

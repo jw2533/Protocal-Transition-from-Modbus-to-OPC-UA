@@ -1,0 +1,5 @@
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\bin\Debug\Opc.Ua.Server.dll
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\bin\Debug\Opc.Ua.Server.pdb
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\SDK\Server\obj\Debug\UA Server Library.csprojResolveAssemblyReference.cache
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\SDK\Server\obj\Debug\Opc.Ua.Server.dll
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\SDK\Server\obj\Debug\Opc.Ua.Server.pdb

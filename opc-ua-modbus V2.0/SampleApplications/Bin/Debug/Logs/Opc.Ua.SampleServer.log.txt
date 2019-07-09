@@ -1,0 +1,47 @@
+
+PID:9228 ************************* Logging started at 11/10/2017 15:59:58 *************************
+9228 - 15:59:59.010 Checking application instance certificate.
+9228 - 15:59:59.017 Checking application instance certificate. CN=UA Sample Server, DC=PPT03-20140715M
+9228 - 15:59:59.178 Checking domains in certificate. CN=UA Sample Server, DC=PPT03-20140715M
+9228 - 15:59:59.219 Adding certificate to discovery server trust list.
+9228 - 15:59:59.628 The server is starting.
+9228 - 16:00:01.763 Token #0 created. CreatedAt = 08:00:01.762 . Lifetime = 3600000
+9228 - 16:00:01.802 SECURE CHANNEL CREATED [TcpClientChannel UA-TCP 1.02.336.0] [ID=65270] Connected To: opc.tcp://localhost:4840/ [None/None/Binary]
+9228 - 16:00:01.806 Token #1 activated. CreatedAt = 08:00:01.762 . Lifetime = 3600000
+9228 - 16:00:01.844 TCPCLIENTCHANNEL SOCKET CLOSED: 000008C4, ChannelId=65270
+9228 - 16:00:01.878 Token #0 created. CreatedAt = 08:00:01.878 . Lifetime = 3600000
+9228 - 16:00:01.958 SECURE CHANNEL CREATED [TcpClientChannel UA-TCP 1.02.336.0] [ID=65271] Connected To: opc.tcp://localhost:4840/ [SignAndEncrypt/Basic128Rsa15/Binary] Client Certificate: [CN=UA Sample Server, DC=PPT03-20140715M] [5F87117DCC89ACCFA2453B72575A0E491EACF1CC] Server Certificate: [DC=PPT03-20140715M, CN=UA Local Discovery Server, C=US, S=Arizona, L="16101 N. 82nd Street, Scottsdale", O=OPC Foundation] [E9E827EF2E07108441521FD13D4F2872567F8CCD]
+9228 - 16:00:01.964 Token #1 activated. CreatedAt = 08:00:01.878 . Lifetime = 3600000
+9228 - 16:00:01.978 TCPCLIENTCHANNEL SOCKET CLOSED: 000009B8, ChannelId=65271
+9228 - 16:00:01.995 Register server succeeded. Registering again in 30000 ms
+9228 - 16:00:17.842 TCPSERVERCHANNEL SOCKET ATTACHED: 000008C0, ChannelId=1
+9228 - 16:00:17.895 Token #0 created. CreatedAt = 08:00:17.895 . Lifetime = 3600000
+9228 - 16:00:17.899 SECURE CHANNEL CREATED [TcpServerChannel UA-TCP 1.02.336.0] [ID=1] Connected To: opc.tcp://ppt03-20140715m:51210/UA/SampleServer [None/None/Binary]
+9228 - 16:00:17.901 Token #1 activated. CreatedAt = 08:00:17.895 . Lifetime = 3600000
+9228 - 16:00:17.948 Thread created: 15. Current thread count: 1. Active thread count1
+9228 - 16:00:17.999 TCPSERVERCHANNEL ProcessCloseSecureChannelRequest Socket=000008C0, ChannelId=1, TokenId=1
+9228 - 16:00:18.002 Channel 1 closed
+9228 - 16:00:18.008 TCPSERVERCHANNEL ForceChannelFault Socket=FFFFFFFF, ChannelId=1, TokenId=1, Reason=Id: BadSecureChannelClosed
+9228 - 16:00:19.931 TCPSERVERCHANNEL SOCKET ATTACHED: 000008C4, ChannelId=2
+9228 - 16:00:20.020 Token #0 created. CreatedAt = 08:00:20.020 . Lifetime = 3600000
+9228 - 16:00:20.023 SECURE CHANNEL CREATED [TcpServerChannel UA-TCP 1.02.336.0] [ID=2] Connected To: opc.tcp://ppt03-20140715m:51210/UA/SampleServer [SignAndEncrypt/Basic128Rsa15/Binary] Client Certificate: [CN=UA Sample Client, DC=PPT03-20140715M] [ABD58B438DAE72E34FA16A10FABD102ADC4EBDF7] Server Certificate: [CN=UA Sample Server, DC=PPT03-20140715M] [5F87117DCC89ACCFA2453B72575A0E491EACF1CC]
+9228 - 16:00:20.025 Token #1 activated. CreatedAt = 08:00:20.020 . Lifetime = 3600000
+9228 - 16:00:20.122 Session CREATED, Id=ns=6;i=177215138, Name=MySession 1, ChannelId=656eeff6-a188-4fc4-a125-2da7dc4b2db1-2, User=Anonymous
+9228 - 16:00:20.128 Server - SESSION CREATED. SessionId=ns=6;i=177215138
+9228 - 16:00:20.169 Session VALIDATED, Id=ns=6;i=177215138, Name=MySession 1, ChannelId=656eeff6-a188-4fc4-a125-2da7dc4b2db1-2, User=Anonymous
+9228 - 16:00:20.177 Session FIRST ACTIVATION, Id=ns=6;i=177215138, Name=MySession 1, ChannelId=656eeff6-a188-4fc4-a125-2da7dc4b2db1-2, User=Anonymous
+9228 - 16:00:20.182 Server - SESSION ACTIVATED.
+9228 - 16:00:32.068 Token #0 created. CreatedAt = 08:00:32.068 . Lifetime = 3600000
+9228 - 16:00:32.124 SECURE CHANNEL CREATED [TcpClientChannel UA-TCP 1.02.336.0] [ID=65272] Connected To: opc.tcp://localhost:4840/ [SignAndEncrypt/Basic128Rsa15/Binary] Client Certificate: [CN=UA Sample Server, DC=PPT03-20140715M] [5F87117DCC89ACCFA2453B72575A0E491EACF1CC] Server Certificate: [DC=PPT03-20140715M, CN=UA Local Discovery Server, C=US, S=Arizona, L="16101 N. 82nd Street, Scottsdale", O=OPC Foundation] [E9E827EF2E07108441521FD13D4F2872567F8CCD]
+9228 - 16:00:32.127 Token #1 activated. CreatedAt = 08:00:32.068 . Lifetime = 3600000
+9228 - 16:00:32.132 TCPCLIENTCHANNEL SOCKET CLOSED: 0000060C, ChannelId=65272
+9228 - 16:00:32.151 Register server succeeded. Registering again in 30000 ms
+9228 - 16:01:02.207 Token #0 created. CreatedAt = 08:01:02.207 . Lifetime = 3600000
+9228 - 16:01:02.265 SECURE CHANNEL CREATED [TcpClientChannel UA-TCP 1.02.336.0] [ID=65273] Connected To: opc.tcp://localhost:4840/ [SignAndEncrypt/Basic128Rsa15/Binary] Client Certificate: [CN=UA Sample Server, DC=PPT03-20140715M] [5F87117DCC89ACCFA2453B72575A0E491EACF1CC] Server Certificate: [DC=PPT03-20140715M, CN=UA Local Discovery Server, C=US, S=Arizona, L="16101 N. 82nd Street, Scottsdale", O=OPC Foundation] [E9E827EF2E07108441521FD13D4F2872567F8CCD]
+9228 - 16:01:02.267 Token #1 activated. CreatedAt = 08:01:02.207 . Lifetime = 3600000
+9228 - 16:01:02.271 TCPCLIENTCHANNEL SOCKET CLOSED: 00000624, ChannelId=65273
+9228 - 16:01:02.290 Register server succeeded. Registering again in 30000 ms
+9228 - 16:01:17.733 Session CLOSED, Id=ns=6;i=177215138, Name=MySession 1, ChannelId=656eeff6-a188-4fc4-a125-2da7dc4b2db1-2, User=Anonymous
+9228 - 16:01:17.740 TCPSERVERCHANNEL ProcessCloseSecureChannelRequest Socket=000008C4, ChannelId=2, TokenId=1
+9228 - 16:01:17.743 Channel 2 closed
+9228 - 16:01:17.746 TCPSERVERCHANNEL ForceChannelFault Socket=FFFFFFFF, ChannelId=2, TokenId=1, Reason=Id: BadSecureChannelClosed

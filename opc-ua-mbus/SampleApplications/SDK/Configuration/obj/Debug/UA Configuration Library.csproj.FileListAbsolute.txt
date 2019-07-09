@@ -1,0 +1,7 @@
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\bin\Debug\Opc.Ua.Configuration.dll
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\bin\Debug\Opc.Ua.Configuration.pdb
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\SDK\Configuration\obj\Debug\UA Configuration Library.csprojResolveAssemblyReference.cache
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\SDK\Configuration\obj\Debug\Opc.Ua.Configuration.ExceptionDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\SDK\Configuration\obj\Debug\UA Configuration Library.csproj.GenerateResource.Cache
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\SDK\Configuration\obj\Debug\Opc.Ua.Configuration.dll
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\SDK\Configuration\obj\Debug\Opc.Ua.Configuration.pdb

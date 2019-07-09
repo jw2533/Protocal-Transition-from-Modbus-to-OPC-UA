@@ -1,0 +1,280 @@
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\bin\Debug\Opc.Ua.SampleControls.dll
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\bin\Debug\Opc.Ua.SampleControls.pdb
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\UA Sample Controls.csprojResolveAssemblyReference.cache
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.AttributeListCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BackgroundTaskDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ArgumentListCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.CallMethodDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.NodeIdValueEditDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ClientForm.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SimpleValueEditDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SelectLocaleDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ServerForm.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Server.Controls.ServerHeaderBranding.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BrowseListCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BrowseDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BrowseTypesDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ReadHistoryDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.EndpointViewDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.TypeNavigatorCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.HistoryReadDetails.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.HistoryReadDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.CreateMonitoredItemsDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.WriteDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.MonitoredItemDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.DataChangeNotificationListCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.FilterOperandListCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ReadDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SelectClauseListCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.DataEncodingDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.PerformanceResultsListCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.PerformanceTestDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.WriteValueListCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.DataValueListCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SelectNodesDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ReadValueListCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.NodeListCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.PropertyListCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.EventFilterDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.FilterOperatorEditDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SubscriptionDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Properties.Resources.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.AddressSpaceDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SecuritySettingsDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.NodeAttributesDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BrowseTreeCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BrowseOptionsDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.CreateSecureChannelDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ReferenceTypeCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SelectNodeDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.FilterOperandEditDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ContentFilterElementListCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.EventNotificationListListCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.WriteValueEditDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ReadValueEditDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.DataChangeFilterEditDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.MonitoredItemConfigCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.RepublishNotificationMessageDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SetMonitoringModeDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.NotificationMessageListCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.MonitoredItemEditDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.MonitoredItemStatusCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SessionTreeCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SessionOpenDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SubscriptionEditDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.FindNodeDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.DataListCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.GuiUtils2.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\UA Sample Controls.csproj.GenerateResource.Cache
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.SampleControls.dll
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.SampleControls.pdb
+E:\opc-ua-fianl\SampleApplications\bin\Debug\Opc.Ua.SampleControls.dll
+E:\opc-ua-fianl\SampleApplications\bin\Debug\Opc.Ua.SampleControls.pdb
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\UA Sample Controls.csprojResolveAssemblyReference.cache
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.AttributeListCtrl.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BackgroundTaskDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ArgumentListCtrl.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.CallMethodDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.NodeIdValueEditDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ClientForm.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SimpleValueEditDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SelectLocaleDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ServerForm.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Server.Controls.ServerHeaderBranding.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BrowseListCtrl.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BrowseDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BrowseTypesDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ReadHistoryDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.EndpointViewDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.TypeNavigatorCtrl.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.HistoryReadDetails.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.HistoryReadDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.CreateMonitoredItemsDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.WriteDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.MonitoredItemDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.DataChangeNotificationListCtrl.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.FilterOperandListCtrl.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ReadDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SelectClauseListCtrl.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.DataEncodingDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.PerformanceResultsListCtrl.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.PerformanceTestDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.WriteValueListCtrl.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.DataValueListCtrl.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SelectNodesDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ReadValueListCtrl.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.NodeListCtrl.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.PropertyListCtrl.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.EventFilterDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.FilterOperatorEditDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SubscriptionDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Properties.Resources.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.AddressSpaceDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SecuritySettingsDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.NodeAttributesDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BrowseTreeCtrl.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BrowseOptionsDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.CreateSecureChannelDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ReferenceTypeCtrl.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SelectNodeDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.FilterOperandEditDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ContentFilterElementListCtrl.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.EventNotificationListListCtrl.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.WriteValueEditDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ReadValueEditDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.DataChangeFilterEditDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.MonitoredItemConfigCtrl.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.RepublishNotificationMessageDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SetMonitoringModeDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.NotificationMessageListCtrl.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.MonitoredItemEditDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.MonitoredItemStatusCtrl.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SessionTreeCtrl.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SessionOpenDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SubscriptionEditDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.FindNodeDlg.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.DataListCtrl.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.GuiUtils2.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\UA Sample Controls.csproj.GenerateResource.Cache
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.SampleControls.dll
+E:\opc-ua-fianl\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.SampleControls.pdb
+E:\opc-ua-mbus\SampleApplications\bin\Debug\Opc.Ua.SampleControls.dll
+E:\opc-ua-mbus\SampleApplications\bin\Debug\Opc.Ua.SampleControls.pdb
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\UA Sample Controls.csprojResolveAssemblyReference.cache
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.AttributeListCtrl.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BackgroundTaskDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ArgumentListCtrl.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.CallMethodDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.NodeIdValueEditDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ClientForm.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SimpleValueEditDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SelectLocaleDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ServerForm.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Server.Controls.ServerHeaderBranding.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BrowseListCtrl.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BrowseDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BrowseTypesDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ReadHistoryDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.EndpointViewDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.TypeNavigatorCtrl.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.HistoryReadDetails.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.HistoryReadDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.CreateMonitoredItemsDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.WriteDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.MonitoredItemDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.DataChangeNotificationListCtrl.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.FilterOperandListCtrl.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ReadDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SelectClauseListCtrl.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.DataEncodingDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.PerformanceResultsListCtrl.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.PerformanceTestDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.WriteValueListCtrl.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.DataValueListCtrl.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SelectNodesDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ReadValueListCtrl.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.NodeListCtrl.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.PropertyListCtrl.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.EventFilterDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.FilterOperatorEditDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SubscriptionDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Properties.Resources.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.AddressSpaceDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SecuritySettingsDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.NodeAttributesDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BrowseTreeCtrl.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BrowseOptionsDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.CreateSecureChannelDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ReferenceTypeCtrl.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SelectNodeDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.FilterOperandEditDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ContentFilterElementListCtrl.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.EventNotificationListListCtrl.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.WriteValueEditDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ReadValueEditDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.DataChangeFilterEditDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.MonitoredItemConfigCtrl.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.RepublishNotificationMessageDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SetMonitoringModeDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.NotificationMessageListCtrl.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.MonitoredItemEditDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.MonitoredItemStatusCtrl.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SessionTreeCtrl.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SessionOpenDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SubscriptionEditDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.FindNodeDlg.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.DataListCtrl.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.GuiUtils2.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\UA Sample Controls.csproj.GenerateResource.Cache
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.SampleControls.dll
+E:\opc-ua-mbus\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.SampleControls.pdb
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\bin\Debug\Opc.Ua.SampleControls.dll
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\bin\Debug\Opc.Ua.SampleControls.pdb
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\UA Sample Controls.csprojResolveAssemblyReference.cache
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.AttributeListCtrl.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BackgroundTaskDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ArgumentListCtrl.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.CallMethodDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.NodeIdValueEditDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ClientForm.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SimpleValueEditDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SelectLocaleDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ServerForm.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Server.Controls.ServerHeaderBranding.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BrowseListCtrl.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BrowseDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BrowseTypesDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ReadHistoryDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.EndpointViewDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.TypeNavigatorCtrl.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.HistoryReadDetails.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.HistoryReadDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.CreateMonitoredItemsDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.WriteDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.MonitoredItemDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.DataChangeNotificationListCtrl.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.FilterOperandListCtrl.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ReadDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SelectClauseListCtrl.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.DataEncodingDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.PerformanceResultsListCtrl.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.PerformanceTestDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.WriteValueListCtrl.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.DataValueListCtrl.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SelectNodesDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ReadValueListCtrl.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.NodeListCtrl.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.PropertyListCtrl.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.EventFilterDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.FilterOperatorEditDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SubscriptionDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Properties.Resources.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.AddressSpaceDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SecuritySettingsDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.NodeAttributesDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BrowseTreeCtrl.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.BrowseOptionsDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.CreateSecureChannelDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ReferenceTypeCtrl.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SelectNodeDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.FilterOperandEditDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ContentFilterElementListCtrl.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.EventNotificationListListCtrl.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.WriteValueEditDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.ReadValueEditDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.DataChangeFilterEditDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.MonitoredItemConfigCtrl.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.RepublishNotificationMessageDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SetMonitoringModeDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.NotificationMessageListCtrl.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.MonitoredItemEditDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.MonitoredItemStatusCtrl.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SessionTreeCtrl.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SessionOpenDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.SubscriptionEditDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.FindNodeDlg.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.DataListCtrl.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.Sample.Controls.GuiUtils2.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\UA Sample Controls.csproj.GenerateResource.Cache
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.SampleControls.dll
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Controls\obj\Debug\Opc.Ua.SampleControls.pdb

@@ -1,0 +1,864 @@
+﻿<ConfiguredEndpointCollection xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://opcfoundation.org/UA/SDK/Configuration.xsd">
+  <KnownHosts xmlns:d2p1="http://opcfoundation.org/UA/2008/02/Types.xsd" />
+  <Endpoints>
+    <ConfiguredEndpoint>
+      <Endpoint xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:EndpointUrl>opc.tcp://localhost:61210/UA/SampleClient</d4p1:EndpointUrl>
+        <d4p1:Server>
+          <d4p1:ApplicationUri>http://ppt03-20140715m/opc.tcp:%2F%2Flocalhost:61210%2FUA%2FSampleClient</d4p1:ApplicationUri>
+          <d4p1:ProductUri i:nil="true" />
+          <d4p1:ApplicationName i:nil="true" />
+          <d4p1:ApplicationType>Server_0</d4p1:ApplicationType>
+          <d4p1:GatewayServerUri i:nil="true" />
+          <d4p1:DiscoveryProfileUri i:nil="true" />
+          <d4p1:DiscoveryUrls>
+            <d4p1:String>opc.tcp://localhost:61210/UA/SampleClient</d4p1:String>
+          </d4p1:DiscoveryUrls>
+        </d4p1:Server>
+        <d4p1:ServerCertificate i:nil="true" />
+        <d4p1:SecurityMode>SignAndEncrypt_3</d4p1:SecurityMode>
+        <d4p1:SecurityPolicyUri>http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15</d4p1:SecurityPolicyUri>
+        <d4p1:UserIdentityTokens>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>Anonymous_0</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>UserName_1</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>Certificate_2</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>IssuedToken_3</d4p1:TokenType>
+            <d4p1:IssuedTokenType>urn:oasis:names:tc:SAML:1.0:assertion:Assertion</d4p1:IssuedTokenType>
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+        </d4p1:UserIdentityTokens>
+        <d4p1:TransportProfileUri>http://opcfoundation.org/UA-Profile/Transport/soaphttp-wssc-uaxml-uabinary</d4p1:TransportProfileUri>
+        <d4p1:SecurityLevel>0</d4p1:SecurityLevel>
+      </Endpoint>
+      <Configuration xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:OperationTimeout>120000</d4p1:OperationTimeout>
+        <d4p1:UseBinaryEncoding>true</d4p1:UseBinaryEncoding>
+        <d4p1:MaxStringLength>1048576</d4p1:MaxStringLength>
+        <d4p1:MaxByteStringLength>4194304</d4p1:MaxByteStringLength>
+        <d4p1:MaxArrayLength>65535</d4p1:MaxArrayLength>
+        <d4p1:MaxMessageSize>4194304</d4p1:MaxMessageSize>
+        <d4p1:MaxBufferSize>65535</d4p1:MaxBufferSize>
+        <d4p1:ChannelLifetime>300000</d4p1:ChannelLifetime>
+        <d4p1:SecurityTokenLifetime>3600000</d4p1:SecurityTokenLifetime>
+      </Configuration>
+      <UpdateBeforeConnect>true</UpdateBeforeConnect>
+      <BinaryEncodingSupport>Optional</BinaryEncodingSupport>
+      <SelectedUserTokenPolicy>0</SelectedUserTokenPolicy>
+      <UserIdentity xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd" i:nil="true" />
+      <ComIdentity i:nil="true" />
+    </ConfiguredEndpoint>
+    <ConfiguredEndpoint>
+      <Endpoint xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:EndpointUrl>opc.tcp://localhost:61210/UA/SampleServer</d4p1:EndpointUrl>
+        <d4p1:Server>
+          <d4p1:ApplicationUri>http://ppt03-20140715m/opc.tcp:%2F%2Flocalhost:61210%2FUA%2FSampleServer</d4p1:ApplicationUri>
+          <d4p1:ProductUri i:nil="true" />
+          <d4p1:ApplicationName i:nil="true" />
+          <d4p1:ApplicationType>Server_0</d4p1:ApplicationType>
+          <d4p1:GatewayServerUri i:nil="true" />
+          <d4p1:DiscoveryProfileUri i:nil="true" />
+          <d4p1:DiscoveryUrls>
+            <d4p1:String>opc.tcp://localhost:61210/UA/SampleServer</d4p1:String>
+          </d4p1:DiscoveryUrls>
+        </d4p1:Server>
+        <d4p1:ServerCertificate i:nil="true" />
+        <d4p1:SecurityMode>SignAndEncrypt_3</d4p1:SecurityMode>
+        <d4p1:SecurityPolicyUri>http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15</d4p1:SecurityPolicyUri>
+        <d4p1:UserIdentityTokens>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>Anonymous_0</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>UserName_1</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>Certificate_2</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>IssuedToken_3</d4p1:TokenType>
+            <d4p1:IssuedTokenType>urn:oasis:names:tc:SAML:1.0:assertion:Assertion</d4p1:IssuedTokenType>
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+        </d4p1:UserIdentityTokens>
+        <d4p1:TransportProfileUri>http://opcfoundation.org/UA-Profile/Transport/soaphttp-wssc-uaxml-uabinary</d4p1:TransportProfileUri>
+        <d4p1:SecurityLevel>0</d4p1:SecurityLevel>
+      </Endpoint>
+      <Configuration xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:OperationTimeout>120000</d4p1:OperationTimeout>
+        <d4p1:UseBinaryEncoding>true</d4p1:UseBinaryEncoding>
+        <d4p1:MaxStringLength>1048576</d4p1:MaxStringLength>
+        <d4p1:MaxByteStringLength>4194304</d4p1:MaxByteStringLength>
+        <d4p1:MaxArrayLength>65535</d4p1:MaxArrayLength>
+        <d4p1:MaxMessageSize>4194304</d4p1:MaxMessageSize>
+        <d4p1:MaxBufferSize>65535</d4p1:MaxBufferSize>
+        <d4p1:ChannelLifetime>300000</d4p1:ChannelLifetime>
+        <d4p1:SecurityTokenLifetime>3600000</d4p1:SecurityTokenLifetime>
+      </Configuration>
+      <UpdateBeforeConnect>true</UpdateBeforeConnect>
+      <BinaryEncodingSupport>Optional</BinaryEncodingSupport>
+      <SelectedUserTokenPolicy>0</SelectedUserTokenPolicy>
+      <UserIdentity xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd" i:nil="true" />
+      <ComIdentity i:nil="true" />
+    </ConfiguredEndpoint>
+    <ConfiguredEndpoint>
+      <Endpoint xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:EndpointUrl>opc.tcp://localhost:62541/UA/ReferenceServer</d4p1:EndpointUrl>
+        <d4p1:Server>
+          <d4p1:ApplicationUri>http://ppt03-20140715m/opc.tcp:%2F%2Flocalhost:62541%2FUA%2FReferenceServer</d4p1:ApplicationUri>
+          <d4p1:ProductUri i:nil="true" />
+          <d4p1:ApplicationName i:nil="true" />
+          <d4p1:ApplicationType>Server_0</d4p1:ApplicationType>
+          <d4p1:GatewayServerUri i:nil="true" />
+          <d4p1:DiscoveryProfileUri i:nil="true" />
+          <d4p1:DiscoveryUrls>
+            <d4p1:String>opc.tcp://localhost:62541/UA/ReferenceServer</d4p1:String>
+          </d4p1:DiscoveryUrls>
+        </d4p1:Server>
+        <d4p1:ServerCertificate i:nil="true" />
+        <d4p1:SecurityMode>SignAndEncrypt_3</d4p1:SecurityMode>
+        <d4p1:SecurityPolicyUri>http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15</d4p1:SecurityPolicyUri>
+        <d4p1:UserIdentityTokens>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>Anonymous_0</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>UserName_1</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>Certificate_2</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>IssuedToken_3</d4p1:TokenType>
+            <d4p1:IssuedTokenType>urn:oasis:names:tc:SAML:1.0:assertion:Assertion</d4p1:IssuedTokenType>
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+        </d4p1:UserIdentityTokens>
+        <d4p1:TransportProfileUri>http://opcfoundation.org/UA-Profile/Transport/soaphttp-wssc-uaxml-uabinary</d4p1:TransportProfileUri>
+        <d4p1:SecurityLevel>0</d4p1:SecurityLevel>
+      </Endpoint>
+      <Configuration xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:OperationTimeout>120000</d4p1:OperationTimeout>
+        <d4p1:UseBinaryEncoding>true</d4p1:UseBinaryEncoding>
+        <d4p1:MaxStringLength>1048576</d4p1:MaxStringLength>
+        <d4p1:MaxByteStringLength>4194304</d4p1:MaxByteStringLength>
+        <d4p1:MaxArrayLength>65535</d4p1:MaxArrayLength>
+        <d4p1:MaxMessageSize>4194304</d4p1:MaxMessageSize>
+        <d4p1:MaxBufferSize>65535</d4p1:MaxBufferSize>
+        <d4p1:ChannelLifetime>300000</d4p1:ChannelLifetime>
+        <d4p1:SecurityTokenLifetime>3600000</d4p1:SecurityTokenLifetime>
+      </Configuration>
+      <UpdateBeforeConnect>true</UpdateBeforeConnect>
+      <BinaryEncodingSupport>Optional</BinaryEncodingSupport>
+      <SelectedUserTokenPolicy>0</SelectedUserTokenPolicy>
+      <UserIdentity xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd" i:nil="true" />
+      <ComIdentity i:nil="true" />
+    </ConfiguredEndpoint>
+    <ConfiguredEndpoint>
+      <Endpoint xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:EndpointUrl>opc.tcp://localhost:62547/Quickstarts/DataAccessServer</d4p1:EndpointUrl>
+        <d4p1:Server>
+          <d4p1:ApplicationUri>http://ppt03-20140715m/opc.tcp:%2F%2Flocalhost:62547%2FQuickstarts%2FDataAccessServer</d4p1:ApplicationUri>
+          <d4p1:ProductUri i:nil="true" />
+          <d4p1:ApplicationName i:nil="true" />
+          <d4p1:ApplicationType>Server_0</d4p1:ApplicationType>
+          <d4p1:GatewayServerUri i:nil="true" />
+          <d4p1:DiscoveryProfileUri i:nil="true" />
+          <d4p1:DiscoveryUrls>
+            <d4p1:String>opc.tcp://localhost:62547/Quickstarts/DataAccessServer</d4p1:String>
+          </d4p1:DiscoveryUrls>
+        </d4p1:Server>
+        <d4p1:ServerCertificate i:nil="true" />
+        <d4p1:SecurityMode>SignAndEncrypt_3</d4p1:SecurityMode>
+        <d4p1:SecurityPolicyUri>http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15</d4p1:SecurityPolicyUri>
+        <d4p1:UserIdentityTokens>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>Anonymous_0</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>UserName_1</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>Certificate_2</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>IssuedToken_3</d4p1:TokenType>
+            <d4p1:IssuedTokenType>urn:oasis:names:tc:SAML:1.0:assertion:Assertion</d4p1:IssuedTokenType>
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+        </d4p1:UserIdentityTokens>
+        <d4p1:TransportProfileUri>http://opcfoundation.org/UA-Profile/Transport/soaphttp-wssc-uaxml-uabinary</d4p1:TransportProfileUri>
+        <d4p1:SecurityLevel>0</d4p1:SecurityLevel>
+      </Endpoint>
+      <Configuration xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:OperationTimeout>120000</d4p1:OperationTimeout>
+        <d4p1:UseBinaryEncoding>true</d4p1:UseBinaryEncoding>
+        <d4p1:MaxStringLength>1048576</d4p1:MaxStringLength>
+        <d4p1:MaxByteStringLength>4194304</d4p1:MaxByteStringLength>
+        <d4p1:MaxArrayLength>65535</d4p1:MaxArrayLength>
+        <d4p1:MaxMessageSize>4194304</d4p1:MaxMessageSize>
+        <d4p1:MaxBufferSize>65535</d4p1:MaxBufferSize>
+        <d4p1:ChannelLifetime>300000</d4p1:ChannelLifetime>
+        <d4p1:SecurityTokenLifetime>3600000</d4p1:SecurityTokenLifetime>
+      </Configuration>
+      <UpdateBeforeConnect>true</UpdateBeforeConnect>
+      <BinaryEncodingSupport>Optional</BinaryEncodingSupport>
+      <SelectedUserTokenPolicy>0</SelectedUserTokenPolicy>
+      <UserIdentity xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd" i:nil="true" />
+      <ComIdentity i:nil="true" />
+    </ConfiguredEndpoint>
+    <ConfiguredEndpoint>
+      <Endpoint xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:EndpointUrl>opc.tcp://localhost:62544/Quickstarts/AlarmConditionServer</d4p1:EndpointUrl>
+        <d4p1:Server>
+          <d4p1:ApplicationUri>http://ppt03-20140715m/opc.tcp:%2F%2Flocalhost:62544%2FQuickstarts%2FAlarmConditionServer</d4p1:ApplicationUri>
+          <d4p1:ProductUri i:nil="true" />
+          <d4p1:ApplicationName i:nil="true" />
+          <d4p1:ApplicationType>Server_0</d4p1:ApplicationType>
+          <d4p1:GatewayServerUri i:nil="true" />
+          <d4p1:DiscoveryProfileUri i:nil="true" />
+          <d4p1:DiscoveryUrls>
+            <d4p1:String>opc.tcp://localhost:62544/Quickstarts/AlarmConditionServer</d4p1:String>
+          </d4p1:DiscoveryUrls>
+        </d4p1:Server>
+        <d4p1:ServerCertificate i:nil="true" />
+        <d4p1:SecurityMode>SignAndEncrypt_3</d4p1:SecurityMode>
+        <d4p1:SecurityPolicyUri>http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15</d4p1:SecurityPolicyUri>
+        <d4p1:UserIdentityTokens>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>Anonymous_0</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>UserName_1</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>Certificate_2</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>IssuedToken_3</d4p1:TokenType>
+            <d4p1:IssuedTokenType>urn:oasis:names:tc:SAML:1.0:assertion:Assertion</d4p1:IssuedTokenType>
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+        </d4p1:UserIdentityTokens>
+        <d4p1:TransportProfileUri>http://opcfoundation.org/UA-Profile/Transport/soaphttp-wssc-uaxml-uabinary</d4p1:TransportProfileUri>
+        <d4p1:SecurityLevel>0</d4p1:SecurityLevel>
+      </Endpoint>
+      <Configuration xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:OperationTimeout>120000</d4p1:OperationTimeout>
+        <d4p1:UseBinaryEncoding>true</d4p1:UseBinaryEncoding>
+        <d4p1:MaxStringLength>1048576</d4p1:MaxStringLength>
+        <d4p1:MaxByteStringLength>4194304</d4p1:MaxByteStringLength>
+        <d4p1:MaxArrayLength>65535</d4p1:MaxArrayLength>
+        <d4p1:MaxMessageSize>4194304</d4p1:MaxMessageSize>
+        <d4p1:MaxBufferSize>65535</d4p1:MaxBufferSize>
+        <d4p1:ChannelLifetime>300000</d4p1:ChannelLifetime>
+        <d4p1:SecurityTokenLifetime>3600000</d4p1:SecurityTokenLifetime>
+      </Configuration>
+      <UpdateBeforeConnect>true</UpdateBeforeConnect>
+      <BinaryEncodingSupport>Optional</BinaryEncodingSupport>
+      <SelectedUserTokenPolicy>0</SelectedUserTokenPolicy>
+      <UserIdentity xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd" i:nil="true" />
+      <ComIdentity i:nil="true" />
+    </ConfiguredEndpoint>
+    <ConfiguredEndpoint>
+      <Endpoint xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:EndpointUrl>opc.tcp://localhost:62550/Quickstarts/HistoricalAccessServer</d4p1:EndpointUrl>
+        <d4p1:Server>
+          <d4p1:ApplicationUri>http://ppt03-20140715m/opc.tcp:%2F%2Flocalhost:62550%2FQuickstarts%2FHistoricalAccessServer</d4p1:ApplicationUri>
+          <d4p1:ProductUri i:nil="true" />
+          <d4p1:ApplicationName i:nil="true" />
+          <d4p1:ApplicationType>Server_0</d4p1:ApplicationType>
+          <d4p1:GatewayServerUri i:nil="true" />
+          <d4p1:DiscoveryProfileUri i:nil="true" />
+          <d4p1:DiscoveryUrls>
+            <d4p1:String>opc.tcp://localhost:62550/Quickstarts/HistoricalAccessServer</d4p1:String>
+          </d4p1:DiscoveryUrls>
+        </d4p1:Server>
+        <d4p1:ServerCertificate i:nil="true" />
+        <d4p1:SecurityMode>SignAndEncrypt_3</d4p1:SecurityMode>
+        <d4p1:SecurityPolicyUri>http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15</d4p1:SecurityPolicyUri>
+        <d4p1:UserIdentityTokens>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>Anonymous_0</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>UserName_1</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>Certificate_2</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>IssuedToken_3</d4p1:TokenType>
+            <d4p1:IssuedTokenType>urn:oasis:names:tc:SAML:1.0:assertion:Assertion</d4p1:IssuedTokenType>
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+        </d4p1:UserIdentityTokens>
+        <d4p1:TransportProfileUri>http://opcfoundation.org/UA-Profile/Transport/soaphttp-wssc-uaxml-uabinary</d4p1:TransportProfileUri>
+        <d4p1:SecurityLevel>0</d4p1:SecurityLevel>
+      </Endpoint>
+      <Configuration xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:OperationTimeout>120000</d4p1:OperationTimeout>
+        <d4p1:UseBinaryEncoding>true</d4p1:UseBinaryEncoding>
+        <d4p1:MaxStringLength>1048576</d4p1:MaxStringLength>
+        <d4p1:MaxByteStringLength>4194304</d4p1:MaxByteStringLength>
+        <d4p1:MaxArrayLength>65535</d4p1:MaxArrayLength>
+        <d4p1:MaxMessageSize>4194304</d4p1:MaxMessageSize>
+        <d4p1:MaxBufferSize>65535</d4p1:MaxBufferSize>
+        <d4p1:ChannelLifetime>300000</d4p1:ChannelLifetime>
+        <d4p1:SecurityTokenLifetime>3600000</d4p1:SecurityTokenLifetime>
+      </Configuration>
+      <UpdateBeforeConnect>true</UpdateBeforeConnect>
+      <BinaryEncodingSupport>Optional</BinaryEncodingSupport>
+      <SelectedUserTokenPolicy>0</SelectedUserTokenPolicy>
+      <UserIdentity xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd" i:nil="true" />
+      <ComIdentity i:nil="true" />
+    </ConfiguredEndpoint>
+    <ConfiguredEndpoint>
+      <Endpoint xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:EndpointUrl>opc.tcp://localhost:62553/Quickstarts/HistoricalEventsServer</d4p1:EndpointUrl>
+        <d4p1:Server>
+          <d4p1:ApplicationUri>http://ppt03-20140715m/opc.tcp:%2F%2Flocalhost:62553%2FQuickstarts%2FHistoricalEventsServer</d4p1:ApplicationUri>
+          <d4p1:ProductUri i:nil="true" />
+          <d4p1:ApplicationName i:nil="true" />
+          <d4p1:ApplicationType>Server_0</d4p1:ApplicationType>
+          <d4p1:GatewayServerUri i:nil="true" />
+          <d4p1:DiscoveryProfileUri i:nil="true" />
+          <d4p1:DiscoveryUrls>
+            <d4p1:String>opc.tcp://localhost:62553/Quickstarts/HistoricalEventsServer</d4p1:String>
+          </d4p1:DiscoveryUrls>
+        </d4p1:Server>
+        <d4p1:ServerCertificate i:nil="true" />
+        <d4p1:SecurityMode>SignAndEncrypt_3</d4p1:SecurityMode>
+        <d4p1:SecurityPolicyUri>http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15</d4p1:SecurityPolicyUri>
+        <d4p1:UserIdentityTokens>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>Anonymous_0</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>UserName_1</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>Certificate_2</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId i:nil="true" />
+            <d4p1:TokenType>IssuedToken_3</d4p1:TokenType>
+            <d4p1:IssuedTokenType>urn:oasis:names:tc:SAML:1.0:assertion:Assertion</d4p1:IssuedTokenType>
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+        </d4p1:UserIdentityTokens>
+        <d4p1:TransportProfileUri>http://opcfoundation.org/UA-Profile/Transport/soaphttp-wssc-uaxml-uabinary</d4p1:TransportProfileUri>
+        <d4p1:SecurityLevel>0</d4p1:SecurityLevel>
+      </Endpoint>
+      <Configuration xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:OperationTimeout>120000</d4p1:OperationTimeout>
+        <d4p1:UseBinaryEncoding>true</d4p1:UseBinaryEncoding>
+        <d4p1:MaxStringLength>1048576</d4p1:MaxStringLength>
+        <d4p1:MaxByteStringLength>4194304</d4p1:MaxByteStringLength>
+        <d4p1:MaxArrayLength>65535</d4p1:MaxArrayLength>
+        <d4p1:MaxMessageSize>4194304</d4p1:MaxMessageSize>
+        <d4p1:MaxBufferSize>65535</d4p1:MaxBufferSize>
+        <d4p1:ChannelLifetime>300000</d4p1:ChannelLifetime>
+        <d4p1:SecurityTokenLifetime>3600000</d4p1:SecurityTokenLifetime>
+      </Configuration>
+      <UpdateBeforeConnect>true</UpdateBeforeConnect>
+      <BinaryEncodingSupport>Optional</BinaryEncodingSupport>
+      <SelectedUserTokenPolicy>0</SelectedUserTokenPolicy>
+      <UserIdentity xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd" i:nil="true" />
+      <ComIdentity i:nil="true" />
+    </ConfiguredEndpoint>
+    <ConfiguredEndpoint>
+      <Endpoint xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:EndpointUrl>opc.tcp://localhost:51210/UA/SampleServer</d4p1:EndpointUrl>
+        <d4p1:Server>
+          <d4p1:ApplicationUri>http://ppt03-20140715m/urn:PPT03-20140715M:UA Sample Server</d4p1:ApplicationUri>
+          <d4p1:ProductUri>http://opcfoundation.org/UA/SampleServer</d4p1:ProductUri>
+          <d4p1:ApplicationName>
+            <d4p1:Locale i:nil="true" />
+            <d4p1:Text>UA Sample Server</d4p1:Text>
+          </d4p1:ApplicationName>
+          <d4p1:ApplicationType>Server_0</d4p1:ApplicationType>
+          <d4p1:GatewayServerUri i:nil="true" />
+          <d4p1:DiscoveryProfileUri i:nil="true" />
+          <d4p1:DiscoveryUrls>
+            <d4p1:String>opc.tcp://localhost:51210/UA/SampleServer</d4p1:String>
+            <d4p1:String>http://localhost:51211/UA/SampleServer/discovery</d4p1:String>
+            <d4p1:String>https://localhost:51212/UA/SampleServer/</d4p1:String>
+          </d4p1:DiscoveryUrls>
+        </d4p1:Server>
+        <d4p1:ServerCertificate>MIIDGzCCAoSgAwIBAgIRAJf5x6q/3QtNkaWSUPaf21wwDQYJKoZIhvcNAQEFBQAwPDEfMB0GCgmSJomT8ixkARkWD1BQVDAzLTIwMTQwNzE1TTEZMBcGA1UEAxMQVUEgU2FtcGxlIFNlcnZlcjAeFw0xNzA0MjgxNDQ2MjJaFw00MTEyMTgxNDQ2MjJaMDwxHzAdBgoJkiaJk/IsZAEZFg9QUFQwMy0yMDE0MDcxNU0xGTAXBgNVBAMTEFVBIFNhbXBsZSBTZXJ2ZXIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOB30Dp3m4vA5A4zCHOJ93ouymjZ1uT9k62W8ffjxvoilWJdOgY0TXTKMu1n0ccUPCcDf77p/iF70JT5U26g5v6dJijvbVQ1kXv8/nK5numOzRhb9pscSAYsE4ro5Hd7dNosU2v9EB8BqXIQP3eldXxARlGiIUlwV51UODO0YKRLAgMBAAGjggEbMIIBFzAdBgNVHQ4EFgQUMfXI0NpIcj/2FG0yCUISm+aK+Y4wdAYDVR0jBG0wa4AUMfXI0NpIcj/2FG0yCUISm+aK+Y6hQKQ+MDwxHzAdBgoJkiaJk/IsZAEZFg9QUFQwMy0yMDE0MDcxNU0xGTAXBgNVBAMTEFVBIFNhbXBsZSBTZXJ2ZXKCEQCX+ceqv90LTZGlklD2n9tcMAwGA1UdEwEB/wQCMAAwDgYDVR0PAQH/BAQDAgL0MCAGA1UdJQEB/wQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBABgNVHREEOTA3hiR1cm46UFBUMDMtMjAxNDA3MTVNOlVBIFNhbXBsZSBTZXJ2ZXKCD1BQVDAzLTIwMTQwNzE1TTANBgkqhkiG9w0BAQUFAAOBgQChjx9KH1E2I1GIK5jWMDFmLvVtzrNa4A5AZsR+w+IHsS77hSKRoeadJCYfaN42cD6T0CFvZN8+VZDRicaELU9IR3ose9+ul/39fnJtwOxOCkJG3DSGs7ZNwBkmKCOaIM7y506n9jOFhbC9mvhhgYVS3ZwDF5b8+VFBmXoZXY8Ipw==</d4p1:ServerCertificate>
+        <d4p1:SecurityMode>SignAndEncrypt_3</d4p1:SecurityMode>
+        <d4p1:SecurityPolicyUri>http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15</d4p1:SecurityPolicyUri>
+        <d4p1:UserIdentityTokens>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId>0</d4p1:PolicyId>
+            <d4p1:TokenType>Anonymous_0</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri>http://opcfoundation.org/UA/SecurityPolicy#None</d4p1:SecurityPolicyUri>
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId>1</d4p1:PolicyId>
+            <d4p1:TokenType>UserName_1</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId>2</d4p1:PolicyId>
+            <d4p1:TokenType>Certificate_2</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+        </d4p1:UserIdentityTokens>
+        <d4p1:TransportProfileUri>http://opcfoundation.org/UA-Profile/Transport/uatcp-uasc-uabinary</d4p1:TransportProfileUri>
+        <d4p1:SecurityLevel>3</d4p1:SecurityLevel>
+      </Endpoint>
+      <Configuration xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:OperationTimeout>120000</d4p1:OperationTimeout>
+        <d4p1:UseBinaryEncoding>true</d4p1:UseBinaryEncoding>
+        <d4p1:MaxStringLength>1048576</d4p1:MaxStringLength>
+        <d4p1:MaxByteStringLength>4194304</d4p1:MaxByteStringLength>
+        <d4p1:MaxArrayLength>65535</d4p1:MaxArrayLength>
+        <d4p1:MaxMessageSize>4194304</d4p1:MaxMessageSize>
+        <d4p1:MaxBufferSize>65535</d4p1:MaxBufferSize>
+        <d4p1:ChannelLifetime>300000</d4p1:ChannelLifetime>
+        <d4p1:SecurityTokenLifetime>3600000</d4p1:SecurityTokenLifetime>
+      </Configuration>
+      <UpdateBeforeConnect>true</UpdateBeforeConnect>
+      <BinaryEncodingSupport>Optional</BinaryEncodingSupport>
+      <SelectedUserTokenPolicy>0</SelectedUserTokenPolicy>
+      <UserIdentity xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd" i:nil="true" />
+      <ComIdentity i:nil="true" />
+    </ConfiguredEndpoint>
+    <ConfiguredEndpoint>
+      <Endpoint xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:EndpointUrl>opc.tcp://localhost:51210/UA/SampleServer</d4p1:EndpointUrl>
+        <d4p1:Server>
+          <d4p1:ApplicationUri>http://ppt03-20140715m/urn:PPT03-20140715M:UA Sample Server</d4p1:ApplicationUri>
+          <d4p1:ProductUri>http://opcfoundation.org/UA/SampleServer</d4p1:ProductUri>
+          <d4p1:ApplicationName>
+            <d4p1:Locale i:nil="true" />
+            <d4p1:Text>UA Sample Server</d4p1:Text>
+          </d4p1:ApplicationName>
+          <d4p1:ApplicationType>Server_0</d4p1:ApplicationType>
+          <d4p1:GatewayServerUri i:nil="true" />
+          <d4p1:DiscoveryProfileUri i:nil="true" />
+          <d4p1:DiscoveryUrls>
+            <d4p1:String>opc.tcp://localhost:51210/UA/SampleServer</d4p1:String>
+            <d4p1:String>http://localhost:51211/UA/SampleServer/discovery</d4p1:String>
+            <d4p1:String>https://localhost:51212/UA/SampleServer/</d4p1:String>
+          </d4p1:DiscoveryUrls>
+        </d4p1:Server>
+        <d4p1:ServerCertificate>MIIDGzCCAoSgAwIBAgIRAJf5x6q/3QtNkaWSUPaf21wwDQYJKoZIhvcNAQEFBQAwPDEfMB0GCgmSJomT8ixkARkWD1BQVDAzLTIwMTQwNzE1TTEZMBcGA1UEAxMQVUEgU2FtcGxlIFNlcnZlcjAeFw0xNzA0MjgxNDQ2MjJaFw00MTEyMTgxNDQ2MjJaMDwxHzAdBgoJkiaJk/IsZAEZFg9QUFQwMy0yMDE0MDcxNU0xGTAXBgNVBAMTEFVBIFNhbXBsZSBTZXJ2ZXIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOB30Dp3m4vA5A4zCHOJ93ouymjZ1uT9k62W8ffjxvoilWJdOgY0TXTKMu1n0ccUPCcDf77p/iF70JT5U26g5v6dJijvbVQ1kXv8/nK5numOzRhb9pscSAYsE4ro5Hd7dNosU2v9EB8BqXIQP3eldXxARlGiIUlwV51UODO0YKRLAgMBAAGjggEbMIIBFzAdBgNVHQ4EFgQUMfXI0NpIcj/2FG0yCUISm+aK+Y4wdAYDVR0jBG0wa4AUMfXI0NpIcj/2FG0yCUISm+aK+Y6hQKQ+MDwxHzAdBgoJkiaJk/IsZAEZFg9QUFQwMy0yMDE0MDcxNU0xGTAXBgNVBAMTEFVBIFNhbXBsZSBTZXJ2ZXKCEQCX+ceqv90LTZGlklD2n9tcMAwGA1UdEwEB/wQCMAAwDgYDVR0PAQH/BAQDAgL0MCAGA1UdJQEB/wQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBABgNVHREEOTA3hiR1cm46UFBUMDMtMjAxNDA3MTVNOlVBIFNhbXBsZSBTZXJ2ZXKCD1BQVDAzLTIwMTQwNzE1TTANBgkqhkiG9w0BAQUFAAOBgQChjx9KH1E2I1GIK5jWMDFmLvVtzrNa4A5AZsR+w+IHsS77hSKRoeadJCYfaN42cD6T0CFvZN8+VZDRicaELU9IR3ose9+ul/39fnJtwOxOCkJG3DSGs7ZNwBkmKCOaIM7y506n9jOFhbC9mvhhgYVS3ZwDF5b8+VFBmXoZXY8Ipw==</d4p1:ServerCertificate>
+        <d4p1:SecurityMode>SignAndEncrypt_3</d4p1:SecurityMode>
+        <d4p1:SecurityPolicyUri>http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15</d4p1:SecurityPolicyUri>
+        <d4p1:UserIdentityTokens>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId>0</d4p1:PolicyId>
+            <d4p1:TokenType>Anonymous_0</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri>http://opcfoundation.org/UA/SecurityPolicy#None</d4p1:SecurityPolicyUri>
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId>1</d4p1:PolicyId>
+            <d4p1:TokenType>UserName_1</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId>2</d4p1:PolicyId>
+            <d4p1:TokenType>Certificate_2</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+        </d4p1:UserIdentityTokens>
+        <d4p1:TransportProfileUri>http://opcfoundation.org/UA-Profile/Transport/uatcp-uasc-uabinary</d4p1:TransportProfileUri>
+        <d4p1:SecurityLevel>3</d4p1:SecurityLevel>
+      </Endpoint>
+      <Configuration xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:OperationTimeout>120000</d4p1:OperationTimeout>
+        <d4p1:UseBinaryEncoding>true</d4p1:UseBinaryEncoding>
+        <d4p1:MaxStringLength>1048576</d4p1:MaxStringLength>
+        <d4p1:MaxByteStringLength>4194304</d4p1:MaxByteStringLength>
+        <d4p1:MaxArrayLength>65535</d4p1:MaxArrayLength>
+        <d4p1:MaxMessageSize>4194304</d4p1:MaxMessageSize>
+        <d4p1:MaxBufferSize>65535</d4p1:MaxBufferSize>
+        <d4p1:ChannelLifetime>300000</d4p1:ChannelLifetime>
+        <d4p1:SecurityTokenLifetime>3600000</d4p1:SecurityTokenLifetime>
+      </Configuration>
+      <UpdateBeforeConnect>true</UpdateBeforeConnect>
+      <BinaryEncodingSupport>Optional</BinaryEncodingSupport>
+      <SelectedUserTokenPolicy>0</SelectedUserTokenPolicy>
+      <UserIdentity xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd" i:nil="true" />
+      <ComIdentity i:nil="true" />
+    </ConfiguredEndpoint>
+    <ConfiguredEndpoint>
+      <Endpoint xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:EndpointUrl>opc.tcp://localhost:51210/UA/SampleServer</d4p1:EndpointUrl>
+        <d4p1:Server>
+          <d4p1:ApplicationUri>http://ppt03-20140715m/urn:PPT03-20140715M:UA Sample Server</d4p1:ApplicationUri>
+          <d4p1:ProductUri>http://opcfoundation.org/UA/SampleServer</d4p1:ProductUri>
+          <d4p1:ApplicationName>
+            <d4p1:Locale i:nil="true" />
+            <d4p1:Text>UA Sample Server</d4p1:Text>
+          </d4p1:ApplicationName>
+          <d4p1:ApplicationType>Server_0</d4p1:ApplicationType>
+          <d4p1:GatewayServerUri i:nil="true" />
+          <d4p1:DiscoveryProfileUri i:nil="true" />
+          <d4p1:DiscoveryUrls>
+            <d4p1:String>opc.tcp://localhost:51210/UA/SampleServer</d4p1:String>
+            <d4p1:String>http://localhost:51211/UA/SampleServer/discovery</d4p1:String>
+            <d4p1:String>https://localhost:51212/UA/SampleServer/</d4p1:String>
+          </d4p1:DiscoveryUrls>
+        </d4p1:Server>
+        <d4p1:ServerCertificate>MIIDGzCCAoSgAwIBAgIRAJf5x6q/3QtNkaWSUPaf21wwDQYJKoZIhvcNAQEFBQAwPDEfMB0GCgmSJomT8ixkARkWD1BQVDAzLTIwMTQwNzE1TTEZMBcGA1UEAxMQVUEgU2FtcGxlIFNlcnZlcjAeFw0xNzA0MjgxNDQ2MjJaFw00MTEyMTgxNDQ2MjJaMDwxHzAdBgoJkiaJk/IsZAEZFg9QUFQwMy0yMDE0MDcxNU0xGTAXBgNVBAMTEFVBIFNhbXBsZSBTZXJ2ZXIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOB30Dp3m4vA5A4zCHOJ93ouymjZ1uT9k62W8ffjxvoilWJdOgY0TXTKMu1n0ccUPCcDf77p/iF70JT5U26g5v6dJijvbVQ1kXv8/nK5numOzRhb9pscSAYsE4ro5Hd7dNosU2v9EB8BqXIQP3eldXxARlGiIUlwV51UODO0YKRLAgMBAAGjggEbMIIBFzAdBgNVHQ4EFgQUMfXI0NpIcj/2FG0yCUISm+aK+Y4wdAYDVR0jBG0wa4AUMfXI0NpIcj/2FG0yCUISm+aK+Y6hQKQ+MDwxHzAdBgoJkiaJk/IsZAEZFg9QUFQwMy0yMDE0MDcxNU0xGTAXBgNVBAMTEFVBIFNhbXBsZSBTZXJ2ZXKCEQCX+ceqv90LTZGlklD2n9tcMAwGA1UdEwEB/wQCMAAwDgYDVR0PAQH/BAQDAgL0MCAGA1UdJQEB/wQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBABgNVHREEOTA3hiR1cm46UFBUMDMtMjAxNDA3MTVNOlVBIFNhbXBsZSBTZXJ2ZXKCD1BQVDAzLTIwMTQwNzE1TTANBgkqhkiG9w0BAQUFAAOBgQChjx9KH1E2I1GIK5jWMDFmLvVtzrNa4A5AZsR+w+IHsS77hSKRoeadJCYfaN42cD6T0CFvZN8+VZDRicaELU9IR3ose9+ul/39fnJtwOxOCkJG3DSGs7ZNwBkmKCOaIM7y506n9jOFhbC9mvhhgYVS3ZwDF5b8+VFBmXoZXY8Ipw==</d4p1:ServerCertificate>
+        <d4p1:SecurityMode>SignAndEncrypt_3</d4p1:SecurityMode>
+        <d4p1:SecurityPolicyUri>http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15</d4p1:SecurityPolicyUri>
+        <d4p1:UserIdentityTokens>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId>0</d4p1:PolicyId>
+            <d4p1:TokenType>Anonymous_0</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri>http://opcfoundation.org/UA/SecurityPolicy#None</d4p1:SecurityPolicyUri>
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId>1</d4p1:PolicyId>
+            <d4p1:TokenType>UserName_1</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId>2</d4p1:PolicyId>
+            <d4p1:TokenType>Certificate_2</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+        </d4p1:UserIdentityTokens>
+        <d4p1:TransportProfileUri>http://opcfoundation.org/UA-Profile/Transport/uatcp-uasc-uabinary</d4p1:TransportProfileUri>
+        <d4p1:SecurityLevel>3</d4p1:SecurityLevel>
+      </Endpoint>
+      <Configuration xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:OperationTimeout>120000</d4p1:OperationTimeout>
+        <d4p1:UseBinaryEncoding>true</d4p1:UseBinaryEncoding>
+        <d4p1:MaxStringLength>1048576</d4p1:MaxStringLength>
+        <d4p1:MaxByteStringLength>4194304</d4p1:MaxByteStringLength>
+        <d4p1:MaxArrayLength>65535</d4p1:MaxArrayLength>
+        <d4p1:MaxMessageSize>4194304</d4p1:MaxMessageSize>
+        <d4p1:MaxBufferSize>65535</d4p1:MaxBufferSize>
+        <d4p1:ChannelLifetime>300000</d4p1:ChannelLifetime>
+        <d4p1:SecurityTokenLifetime>3600000</d4p1:SecurityTokenLifetime>
+      </Configuration>
+      <UpdateBeforeConnect>true</UpdateBeforeConnect>
+      <BinaryEncodingSupport>Optional</BinaryEncodingSupport>
+      <SelectedUserTokenPolicy>0</SelectedUserTokenPolicy>
+      <UserIdentity xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd" i:nil="true" />
+      <ComIdentity i:nil="true" />
+    </ConfiguredEndpoint>
+    <ConfiguredEndpoint>
+      <Endpoint xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:EndpointUrl>opc.tcp://localhost:51210/UA/SampleServer</d4p1:EndpointUrl>
+        <d4p1:Server>
+          <d4p1:ApplicationUri>http://ppt03-20140715m/urn:PPT03-20140715M:UA Sample Server</d4p1:ApplicationUri>
+          <d4p1:ProductUri>http://opcfoundation.org/UA/SampleServer</d4p1:ProductUri>
+          <d4p1:ApplicationName>
+            <d4p1:Locale i:nil="true" />
+            <d4p1:Text>UA Sample Server</d4p1:Text>
+          </d4p1:ApplicationName>
+          <d4p1:ApplicationType>Server_0</d4p1:ApplicationType>
+          <d4p1:GatewayServerUri i:nil="true" />
+          <d4p1:DiscoveryProfileUri i:nil="true" />
+          <d4p1:DiscoveryUrls>
+            <d4p1:String>opc.tcp://localhost:51210/UA/SampleServer</d4p1:String>
+            <d4p1:String>http://localhost:51211/UA/SampleServer/discovery</d4p1:String>
+            <d4p1:String>https://localhost:51212/UA/SampleServer/</d4p1:String>
+          </d4p1:DiscoveryUrls>
+        </d4p1:Server>
+        <d4p1:ServerCertificate>MIIDGzCCAoSgAwIBAgIRAJf5x6q/3QtNkaWSUPaf21wwDQYJKoZIhvcNAQEFBQAwPDEfMB0GCgmSJomT8ixkARkWD1BQVDAzLTIwMTQwNzE1TTEZMBcGA1UEAxMQVUEgU2FtcGxlIFNlcnZlcjAeFw0xNzA0MjgxNDQ2MjJaFw00MTEyMTgxNDQ2MjJaMDwxHzAdBgoJkiaJk/IsZAEZFg9QUFQwMy0yMDE0MDcxNU0xGTAXBgNVBAMTEFVBIFNhbXBsZSBTZXJ2ZXIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOB30Dp3m4vA5A4zCHOJ93ouymjZ1uT9k62W8ffjxvoilWJdOgY0TXTKMu1n0ccUPCcDf77p/iF70JT5U26g5v6dJijvbVQ1kXv8/nK5numOzRhb9pscSAYsE4ro5Hd7dNosU2v9EB8BqXIQP3eldXxARlGiIUlwV51UODO0YKRLAgMBAAGjggEbMIIBFzAdBgNVHQ4EFgQUMfXI0NpIcj/2FG0yCUISm+aK+Y4wdAYDVR0jBG0wa4AUMfXI0NpIcj/2FG0yCUISm+aK+Y6hQKQ+MDwxHzAdBgoJkiaJk/IsZAEZFg9QUFQwMy0yMDE0MDcxNU0xGTAXBgNVBAMTEFVBIFNhbXBsZSBTZXJ2ZXKCEQCX+ceqv90LTZGlklD2n9tcMAwGA1UdEwEB/wQCMAAwDgYDVR0PAQH/BAQDAgL0MCAGA1UdJQEB/wQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBABgNVHREEOTA3hiR1cm46UFBUMDMtMjAxNDA3MTVNOlVBIFNhbXBsZSBTZXJ2ZXKCD1BQVDAzLTIwMTQwNzE1TTANBgkqhkiG9w0BAQUFAAOBgQChjx9KH1E2I1GIK5jWMDFmLvVtzrNa4A5AZsR+w+IHsS77hSKRoeadJCYfaN42cD6T0CFvZN8+VZDRicaELU9IR3ose9+ul/39fnJtwOxOCkJG3DSGs7ZNwBkmKCOaIM7y506n9jOFhbC9mvhhgYVS3ZwDF5b8+VFBmXoZXY8Ipw==</d4p1:ServerCertificate>
+        <d4p1:SecurityMode>SignAndEncrypt_3</d4p1:SecurityMode>
+        <d4p1:SecurityPolicyUri>http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15</d4p1:SecurityPolicyUri>
+        <d4p1:UserIdentityTokens>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId>0</d4p1:PolicyId>
+            <d4p1:TokenType>Anonymous_0</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri>http://opcfoundation.org/UA/SecurityPolicy#None</d4p1:SecurityPolicyUri>
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId>1</d4p1:PolicyId>
+            <d4p1:TokenType>UserName_1</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId>2</d4p1:PolicyId>
+            <d4p1:TokenType>Certificate_2</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+        </d4p1:UserIdentityTokens>
+        <d4p1:TransportProfileUri>http://opcfoundation.org/UA-Profile/Transport/uatcp-uasc-uabinary</d4p1:TransportProfileUri>
+        <d4p1:SecurityLevel>3</d4p1:SecurityLevel>
+      </Endpoint>
+      <Configuration xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:OperationTimeout>120000</d4p1:OperationTimeout>
+        <d4p1:UseBinaryEncoding>true</d4p1:UseBinaryEncoding>
+        <d4p1:MaxStringLength>1048576</d4p1:MaxStringLength>
+        <d4p1:MaxByteStringLength>4194304</d4p1:MaxByteStringLength>
+        <d4p1:MaxArrayLength>65535</d4p1:MaxArrayLength>
+        <d4p1:MaxMessageSize>4194304</d4p1:MaxMessageSize>
+        <d4p1:MaxBufferSize>65535</d4p1:MaxBufferSize>
+        <d4p1:ChannelLifetime>300000</d4p1:ChannelLifetime>
+        <d4p1:SecurityTokenLifetime>3600000</d4p1:SecurityTokenLifetime>
+      </Configuration>
+      <UpdateBeforeConnect>true</UpdateBeforeConnect>
+      <BinaryEncodingSupport>Optional</BinaryEncodingSupport>
+      <SelectedUserTokenPolicy>0</SelectedUserTokenPolicy>
+      <UserIdentity xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd" i:nil="true" />
+      <ComIdentity i:nil="true" />
+    </ConfiguredEndpoint>
+    <ConfiguredEndpoint>
+      <Endpoint xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:EndpointUrl>opc.tcp://localhost:51210/UA/SampleServer</d4p1:EndpointUrl>
+        <d4p1:Server>
+          <d4p1:ApplicationUri>http://ppt03-20140715m/urn:PPT03-20140715M:UA Sample Server</d4p1:ApplicationUri>
+          <d4p1:ProductUri>http://opcfoundation.org/UA/SampleServer</d4p1:ProductUri>
+          <d4p1:ApplicationName>
+            <d4p1:Locale i:nil="true" />
+            <d4p1:Text>UA Sample Server</d4p1:Text>
+          </d4p1:ApplicationName>
+          <d4p1:ApplicationType>Server_0</d4p1:ApplicationType>
+          <d4p1:GatewayServerUri i:nil="true" />
+          <d4p1:DiscoveryProfileUri i:nil="true" />
+          <d4p1:DiscoveryUrls>
+            <d4p1:String>opc.tcp://localhost:51210/UA/SampleServer</d4p1:String>
+            <d4p1:String>http://localhost:51211/UA/SampleServer/discovery</d4p1:String>
+            <d4p1:String>https://localhost:51212/UA/SampleServer/</d4p1:String>
+          </d4p1:DiscoveryUrls>
+        </d4p1:Server>
+        <d4p1:ServerCertificate>MIIDGzCCAoSgAwIBAgIRAJf5x6q/3QtNkaWSUPaf21wwDQYJKoZIhvcNAQEFBQAwPDEfMB0GCgmSJomT8ixkARkWD1BQVDAzLTIwMTQwNzE1TTEZMBcGA1UEAxMQVUEgU2FtcGxlIFNlcnZlcjAeFw0xNzA0MjgxNDQ2MjJaFw00MTEyMTgxNDQ2MjJaMDwxHzAdBgoJkiaJk/IsZAEZFg9QUFQwMy0yMDE0MDcxNU0xGTAXBgNVBAMTEFVBIFNhbXBsZSBTZXJ2ZXIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOB30Dp3m4vA5A4zCHOJ93ouymjZ1uT9k62W8ffjxvoilWJdOgY0TXTKMu1n0ccUPCcDf77p/iF70JT5U26g5v6dJijvbVQ1kXv8/nK5numOzRhb9pscSAYsE4ro5Hd7dNosU2v9EB8BqXIQP3eldXxARlGiIUlwV51UODO0YKRLAgMBAAGjggEbMIIBFzAdBgNVHQ4EFgQUMfXI0NpIcj/2FG0yCUISm+aK+Y4wdAYDVR0jBG0wa4AUMfXI0NpIcj/2FG0yCUISm+aK+Y6hQKQ+MDwxHzAdBgoJkiaJk/IsZAEZFg9QUFQwMy0yMDE0MDcxNU0xGTAXBgNVBAMTEFVBIFNhbXBsZSBTZXJ2ZXKCEQCX+ceqv90LTZGlklD2n9tcMAwGA1UdEwEB/wQCMAAwDgYDVR0PAQH/BAQDAgL0MCAGA1UdJQEB/wQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBABgNVHREEOTA3hiR1cm46UFBUMDMtMjAxNDA3MTVNOlVBIFNhbXBsZSBTZXJ2ZXKCD1BQVDAzLTIwMTQwNzE1TTANBgkqhkiG9w0BAQUFAAOBgQChjx9KH1E2I1GIK5jWMDFmLvVtzrNa4A5AZsR+w+IHsS77hSKRoeadJCYfaN42cD6T0CFvZN8+VZDRicaELU9IR3ose9+ul/39fnJtwOxOCkJG3DSGs7ZNwBkmKCOaIM7y506n9jOFhbC9mvhhgYVS3ZwDF5b8+VFBmXoZXY8Ipw==</d4p1:ServerCertificate>
+        <d4p1:SecurityMode>SignAndEncrypt_3</d4p1:SecurityMode>
+        <d4p1:SecurityPolicyUri>http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15</d4p1:SecurityPolicyUri>
+        <d4p1:UserIdentityTokens>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId>0</d4p1:PolicyId>
+            <d4p1:TokenType>Anonymous_0</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri>http://opcfoundation.org/UA/SecurityPolicy#None</d4p1:SecurityPolicyUri>
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId>1</d4p1:PolicyId>
+            <d4p1:TokenType>UserName_1</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId>2</d4p1:PolicyId>
+            <d4p1:TokenType>Certificate_2</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+        </d4p1:UserIdentityTokens>
+        <d4p1:TransportProfileUri>http://opcfoundation.org/UA-Profile/Transport/uatcp-uasc-uabinary</d4p1:TransportProfileUri>
+        <d4p1:SecurityLevel>3</d4p1:SecurityLevel>
+      </Endpoint>
+      <Configuration xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:OperationTimeout>120000</d4p1:OperationTimeout>
+        <d4p1:UseBinaryEncoding>true</d4p1:UseBinaryEncoding>
+        <d4p1:MaxStringLength>1048576</d4p1:MaxStringLength>
+        <d4p1:MaxByteStringLength>4194304</d4p1:MaxByteStringLength>
+        <d4p1:MaxArrayLength>65535</d4p1:MaxArrayLength>
+        <d4p1:MaxMessageSize>4194304</d4p1:MaxMessageSize>
+        <d4p1:MaxBufferSize>65535</d4p1:MaxBufferSize>
+        <d4p1:ChannelLifetime>300000</d4p1:ChannelLifetime>
+        <d4p1:SecurityTokenLifetime>3600000</d4p1:SecurityTokenLifetime>
+      </Configuration>
+      <UpdateBeforeConnect>true</UpdateBeforeConnect>
+      <BinaryEncodingSupport>Optional</BinaryEncodingSupport>
+      <SelectedUserTokenPolicy>0</SelectedUserTokenPolicy>
+      <UserIdentity xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd" i:nil="true" />
+      <ComIdentity i:nil="true" />
+    </ConfiguredEndpoint>
+    <ConfiguredEndpoint>
+      <Endpoint xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:EndpointUrl>opc.tcp://localhost:51210/UA/SampleServer</d4p1:EndpointUrl>
+        <d4p1:Server>
+          <d4p1:ApplicationUri>urn:PPT03-20140715M:UA Sample Server</d4p1:ApplicationUri>
+          <d4p1:ProductUri>http://opcfoundation.org/UA/SampleServer</d4p1:ProductUri>
+          <d4p1:ApplicationName>
+            <d4p1:Locale i:nil="true" />
+            <d4p1:Text>UA Sample Server</d4p1:Text>
+          </d4p1:ApplicationName>
+          <d4p1:ApplicationType>Server_0</d4p1:ApplicationType>
+          <d4p1:GatewayServerUri i:nil="true" />
+          <d4p1:DiscoveryProfileUri i:nil="true" />
+          <d4p1:DiscoveryUrls>
+            <d4p1:String>opc.tcp://localhost:51210/UA/SampleServer</d4p1:String>
+            <d4p1:String>http://localhost:51211/UA/SampleServer/discovery</d4p1:String>
+            <d4p1:String>https://localhost:51212/UA/SampleServer/</d4p1:String>
+          </d4p1:DiscoveryUrls>
+        </d4p1:Server>
+        <d4p1:ServerCertificate>MIIDGzCCAoSgAwIBAgIRAJf5x6q/3QtNkaWSUPaf21wwDQYJKoZIhvcNAQEFBQAwPDEfMB0GCgmSJomT8ixkARkWD1BQVDAzLTIwMTQwNzE1TTEZMBcGA1UEAxMQVUEgU2FtcGxlIFNlcnZlcjAeFw0xNzA0MjgxNDQ2MjJaFw00MTEyMTgxNDQ2MjJaMDwxHzAdBgoJkiaJk/IsZAEZFg9QUFQwMy0yMDE0MDcxNU0xGTAXBgNVBAMTEFVBIFNhbXBsZSBTZXJ2ZXIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOB30Dp3m4vA5A4zCHOJ93ouymjZ1uT9k62W8ffjxvoilWJdOgY0TXTKMu1n0ccUPCcDf77p/iF70JT5U26g5v6dJijvbVQ1kXv8/nK5numOzRhb9pscSAYsE4ro5Hd7dNosU2v9EB8BqXIQP3eldXxARlGiIUlwV51UODO0YKRLAgMBAAGjggEbMIIBFzAdBgNVHQ4EFgQUMfXI0NpIcj/2FG0yCUISm+aK+Y4wdAYDVR0jBG0wa4AUMfXI0NpIcj/2FG0yCUISm+aK+Y6hQKQ+MDwxHzAdBgoJkiaJk/IsZAEZFg9QUFQwMy0yMDE0MDcxNU0xGTAXBgNVBAMTEFVBIFNhbXBsZSBTZXJ2ZXKCEQCX+ceqv90LTZGlklD2n9tcMAwGA1UdEwEB/wQCMAAwDgYDVR0PAQH/BAQDAgL0MCAGA1UdJQEB/wQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBABgNVHREEOTA3hiR1cm46UFBUMDMtMjAxNDA3MTVNOlVBIFNhbXBsZSBTZXJ2ZXKCD1BQVDAzLTIwMTQwNzE1TTANBgkqhkiG9w0BAQUFAAOBgQChjx9KH1E2I1GIK5jWMDFmLvVtzrNa4A5AZsR+w+IHsS77hSKRoeadJCYfaN42cD6T0CFvZN8+VZDRicaELU9IR3ose9+ul/39fnJtwOxOCkJG3DSGs7ZNwBkmKCOaIM7y506n9jOFhbC9mvhhgYVS3ZwDF5b8+VFBmXoZXY8Ipw==</d4p1:ServerCertificate>
+        <d4p1:SecurityMode>SignAndEncrypt_3</d4p1:SecurityMode>
+        <d4p1:SecurityPolicyUri>http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15</d4p1:SecurityPolicyUri>
+        <d4p1:UserIdentityTokens>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId>0</d4p1:PolicyId>
+            <d4p1:TokenType>Anonymous_0</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri>http://opcfoundation.org/UA/SecurityPolicy#None</d4p1:SecurityPolicyUri>
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId>1</d4p1:PolicyId>
+            <d4p1:TokenType>UserName_1</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+          <d4p1:UserTokenPolicy>
+            <d4p1:PolicyId>2</d4p1:PolicyId>
+            <d4p1:TokenType>Certificate_2</d4p1:TokenType>
+            <d4p1:IssuedTokenType i:nil="true" />
+            <d4p1:IssuerEndpointUrl i:nil="true" />
+            <d4p1:SecurityPolicyUri i:nil="true" />
+          </d4p1:UserTokenPolicy>
+        </d4p1:UserIdentityTokens>
+        <d4p1:TransportProfileUri>http://opcfoundation.org/UA-Profile/Transport/uatcp-uasc-uabinary</d4p1:TransportProfileUri>
+        <d4p1:SecurityLevel>3</d4p1:SecurityLevel>
+      </Endpoint>
+      <Configuration xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+        <d4p1:OperationTimeout>120000</d4p1:OperationTimeout>
+        <d4p1:UseBinaryEncoding>true</d4p1:UseBinaryEncoding>
+        <d4p1:MaxStringLength>1048576</d4p1:MaxStringLength>
+        <d4p1:MaxByteStringLength>4194304</d4p1:MaxByteStringLength>
+        <d4p1:MaxArrayLength>65535</d4p1:MaxArrayLength>
+        <d4p1:MaxMessageSize>4194304</d4p1:MaxMessageSize>
+        <d4p1:MaxBufferSize>65535</d4p1:MaxBufferSize>
+        <d4p1:ChannelLifetime>300000</d4p1:ChannelLifetime>
+        <d4p1:SecurityTokenLifetime>3600000</d4p1:SecurityTokenLifetime>
+      </Configuration>
+      <UpdateBeforeConnect>true</UpdateBeforeConnect>
+      <BinaryEncodingSupport>Optional</BinaryEncodingSupport>
+      <SelectedUserTokenPolicy>0</SelectedUserTokenPolicy>
+      <UserIdentity xmlns:d4p1="http://opcfoundation.org/UA/2008/02/Types.xsd" i:nil="true" />
+      <ComIdentity i:nil="true" />
+    </ConfiguredEndpoint>
+  </Endpoints>
+</ConfiguredEndpointCollection>

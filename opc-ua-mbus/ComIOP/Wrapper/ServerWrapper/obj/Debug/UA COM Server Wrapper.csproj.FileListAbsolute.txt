@@ -1,0 +1,10 @@
+E:\ComIOP\Wrapper\ServerWrapper\obj\Debug\UA COM Server Wrapper.csprojResolveAssemblyReference.cache
+E:\ComIOP\Wrapper\ServerWrapper\obj\Debug\Opc.Ua.ComServerWrapper.Properties.Resources.resources
+E:\ComIOP\Wrapper\ServerWrapper\obj\Debug\Opc.Ua.Com.Client.ServerDiagnosticsCtrl.resources
+E:\ComIOP\Wrapper\ServerWrapper\obj\Debug\Opc.Ua.Com.Client.ServerForm.resources
+E:\ComIOP\Wrapper\ServerWrapper\obj\Debug\UA COM Server Wrapper.csproj.GenerateResource.Cache
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\Wrapper\ServerWrapper\obj\Debug\UA COM Server Wrapper.csprojResolveAssemblyReference.cache
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\Wrapper\ServerWrapper\obj\Debug\Opc.Ua.ComServerWrapper.Properties.Resources.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\Wrapper\ServerWrapper\obj\Debug\Opc.Ua.Com.Client.ServerDiagnosticsCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\Wrapper\ServerWrapper\obj\Debug\Opc.Ua.Com.Client.ServerForm.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\Wrapper\ServerWrapper\obj\Debug\UA COM Server Wrapper.csproj.GenerateResource.Cache

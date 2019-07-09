@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <ipadd>111.186.123.168</ipadd>
+  <port>502</port>
+  <address1>A0 A1 A2 A3 A4 A5 A6</address1>
+  <address2>A0 A1 A2 A3 A4 A5 A7</address2>
+</config>

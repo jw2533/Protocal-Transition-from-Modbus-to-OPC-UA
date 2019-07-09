@@ -1,0 +1,10 @@
+E:\Stack\Core\bin\Debug\Opc.Ua.Core.dll
+E:\Stack\Core\bin\Debug\Opc.Ua.Core.pdb
+E:\Stack\Core\obj\Debug\UA Core Library.csprojResolveAssemblyReference.cache
+E:\Stack\Core\obj\Debug\Opc.Ua.Core.dll
+E:\Stack\Core\obj\Debug\Opc.Ua.Core.pdb
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\Stack\Core\bin\Debug\Opc.Ua.Core.dll
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\Stack\Core\bin\Debug\Opc.Ua.Core.pdb
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\Stack\Core\obj\Debug\UA Core Library.csprojResolveAssemblyReference.cache
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\Stack\Core\obj\Debug\Opc.Ua.Core.dll
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\Stack\Core\obj\Debug\Opc.Ua.Core.pdb

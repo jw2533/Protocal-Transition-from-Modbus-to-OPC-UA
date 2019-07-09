@@ -1,0 +1,71 @@
+﻿Build started 2017/9/15 12:51:40.
+     1>Project "E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\Wrapper\Common\OPC Sample Utility Classes.vcxproj" on node 3 (Rebuild target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\VC\bin\CL.exe /c /I..\Include /I..\..\..\Include /I..\..\bin\Debug\ /Zi /nologo /W3 /WX- /Od /Oy- /D _DEBUG /D WIN32 /D _LIB /D _WIN32_DCOM /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _CRT_NON_CONFORMING_SWPRINTFS /D _VC80_UPGRADE=0x0710 /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope- /Yc"StdAfx.h" /Fp"..\..\bin\Debug\intermediate\UA COM Server Class Library\UA COM Server Class Library.pch" /Fo"..\..\bin\Debug\intermediate\UA COM Server Class Library\\" /Fd"..\..\bin\Debug\intermediate\UA COM Server Class Library\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+         D:\Program Files (x86)\VC\bin\CL.exe /c /I..\Include /I..\..\..\Include /I..\..\bin\Debug\ /Zi /nologo /W3 /WX- /Od /Oy- /D _DEBUG /D WIN32 /D _LIB /D _WIN32_DCOM /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _CRT_NON_CONFORMING_SWPRINTFS /D _VC80_UPGRADE=0x0710 /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope- /Yu"StdAfx.h" /Fp"..\..\bin\Debug\intermediate\UA COM Server Class Library\UA COM Server Class Library.pch" /Fo"..\..\bin\Debug\intermediate\UA COM Server Class Library\\" /Fd"..\..\bin\Debug\intermediate\UA COM Server Class Library\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt COpcBrowseElement.cpp COpcClassFactory.cpp COpcComModule.cpp COpcCommon.cpp COpcConnectionPoint.cpp COpcCPContainer.cpp COpcEnumCPs.cpp COpcEnumString.cpp COpcEnumUnknown.cpp COpcFile.cpp COpcSecurity.cpp COpcString.cpp COpcText.cpp COpcTextReader.cpp COpcThread.cpp COpcThreadPool.cpp COpcVariant.cpp COpcXmlAnyType.cpp COpcXmlAttribute.cpp COpcXmlDocument.cpp COpcXmlElement.cpp OpcCategory.cpp OpcMatch.cpp OpcRegistry.cpp OpcUtils.cpp OpcXmlType.cpp
+         COpcBrowseElement.cpp
+         COpcClassFactory.cpp
+         COpcComModule.cpp
+         COpcCommon.cpp
+         COpcConnectionPoint.cpp
+         COpcCPContainer.cpp
+         COpcEnumCPs.cpp
+         COpcEnumString.cpp
+         COpcEnumUnknown.cpp
+         COpcFile.cpp
+         COpcSecurity.cpp
+         COpcString.cpp
+         COpcText.cpp
+         COpcTextReader.cpp
+         COpcThread.cpp
+         COpcThreadPool.cpp
+         COpcVariant.cpp
+         COpcXmlAnyType.cpp
+         COpcXmlAttribute.cpp
+         COpcXmlDocument.cpp
+         Generating Code...
+         Compiling...
+         COpcXmlElement.cpp
+         OpcCategory.cpp
+         OpcMatch.cpp
+         OpcRegistry.cpp
+         OpcUtils.cpp
+         OpcXmlType.cpp
+         Generating Code...
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1361,5): warning MSB8012: TargetPath(E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\Wrapper\Common\..\..\bin\Debug\UA COM Server Class Library.lib) does not match the Library's OutputFile property value (E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\bin\Debug\OpcComServer.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetName(UA COM Server Class Library) does not match the Library's OutputFile property value (OpcComServer). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+       Lib:
+         D:\Program Files (x86)\VC\bin\Lib.exe /OUT:"..\..\bin\Debug\OpcComServer.lib" /NOLOGO "..\..\bin\Debug\intermediate\UA COM Server Class Library\COpcBrowseElement.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\COpcClassFactory.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\COpcComModule.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\COpcCommon.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\COpcConnectionPoint.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\COpcCPContainer.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\COpcEnumCPs.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\COpcEnumString.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\COpcEnumUnknown.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\COpcFile.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\COpcSecurity.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\COpcString.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\COpcText.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\COpcTextReader.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\COpcThread.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\COpcThreadPool.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\COpcVariant.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\COpcXmlAnyType.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\COpcXmlAttribute.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\COpcXmlDocument.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\COpcXmlElement.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\OpcCategory.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\OpcMatch.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\OpcRegistry.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\OpcUtils.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\OpcXmlType.obj"
+         "..\..\bin\Debug\intermediate\UA COM Server Class Library\StdAfx.obj"
+         OPC Sample Utility Classes.vcxproj -> E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\Wrapper\Common\..\..\bin\Debug\UA COM Server Class Library.lib
+     1>Done Building Project "E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\Wrapper\Common\OPC Sample Utility Classes.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.99

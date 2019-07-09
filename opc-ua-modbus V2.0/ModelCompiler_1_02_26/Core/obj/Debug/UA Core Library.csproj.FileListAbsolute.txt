@@ -1,0 +1,5 @@
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\Bin\Debug\Opc.Ua.ModelCompiler.Core.dll
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\Bin\Debug\Opc.Ua.ModelCompiler.Core.pdb
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ModelCompiler_1_02_26\Core\obj\Debug\UA Core Library.csprojResolveAssemblyReference.cache
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ModelCompiler_1_02_26\Core\obj\Debug\Opc.Ua.ModelCompiler.Core.dll
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ModelCompiler_1_02_26\Core\obj\Debug\Opc.Ua.ModelCompiler.Core.pdb

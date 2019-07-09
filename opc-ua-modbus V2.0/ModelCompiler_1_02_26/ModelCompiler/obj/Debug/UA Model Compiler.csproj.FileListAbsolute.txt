@@ -1,0 +1,9 @@
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\Bin\Debug\Opc.Ua.ModelCompiler.exe
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\Bin\Debug\Opc.Ua.ModelCompiler.pdb
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ModelCompiler_1_02_26\ModelCompiler\obj\Debug\UA Model Compiler.csprojResolveAssemblyReference.cache
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ModelCompiler_1_02_26\ModelCompiler\obj\Debug\Opc.Ua.ModelCompiler.MainForm.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ModelCompiler_1_02_26\ModelCompiler\obj\Debug\Opc.Ua.ModelCompiler.Properties.Resources.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ModelCompiler_1_02_26\ModelCompiler\obj\Debug\Opc.Ua.ModelCompiler.ExceptionDlg.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ModelCompiler_1_02_26\ModelCompiler\obj\Debug\UA Model Compiler.csproj.GenerateResource.Cache
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ModelCompiler_1_02_26\ModelCompiler\obj\Debug\Opc.Ua.ModelCompiler.exe
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ModelCompiler_1_02_26\ModelCompiler\obj\Debug\Opc.Ua.ModelCompiler.pdb

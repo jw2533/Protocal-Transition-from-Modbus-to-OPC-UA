@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<UANodeSet xmlns="http://opcfoundation.org/UA/2011/03/UANodeSet.xsd" xmlns:uax="http://opcfoundation.org/UA/2008/02/Types.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NamespaceUris />
+  <Aliases>
+    <Alias Alias="Float">i=10</Alias>
+    <Alias Alias="Organizes">i=35</Alias>
+    <Alias Alias="HasTypeDefinition">i=40</Alias>
+    <Alias Alias="HasComponent">i=47</Alias>
+  </Aliases>
+  <UAObject BrowseName="0:NoName" NodeId="i=20002" ParentNodeId="i=85">
+    <DisplayName>NoName</DisplayName>
+    <Description>NoName</Description>
+    <References>
+      <Reference IsForward="false" ReferenceType="Organizes">i=85</Reference>
+      <Reference ReferenceType="HasTypeDefinition">i=61</Reference>
+      <Reference ReferenceType="HasComponent">i=20005</Reference>
+      <Reference ReferenceType="HasComponent">i=20006</Reference>
+    </References>
+  </UAObject>
+  <UAVariable BrowseName="0:Filed1" DataType="Float" NodeId="i=20005" ParentNodeId="i=20002">
+    <DisplayName>Filed1</DisplayName>
+    <Description>Filed1</Description>
+    <References>
+      <Reference IsForward="false" ReferenceType="HasComponent">i=20002</Reference>
+      <Reference ReferenceType="HasTypeDefinition">i=63</Reference>
+    </References>
+    <Value>
+      <uax:Float>9.99</uax:Float>
+    </Value>
+  </UAVariable>
+  <UAVariable BrowseName="0:Filed2" DataType="Float" NodeId="i=20006" ParentNodeId="i=20002">
+    <DisplayName>Filed2</DisplayName>
+    <Description>Filed2</Description>
+    <References>
+      <Reference IsForward="false" ReferenceType="HasComponent">i=20002</Reference>
+      <Reference ReferenceType="HasTypeDefinition">i=63</Reference>
+    </References>
+    <Value>
+      <uax:Float>9.99</uax:Float>
+    </Value>
+  </UAVariable>
+</UANodeSet>

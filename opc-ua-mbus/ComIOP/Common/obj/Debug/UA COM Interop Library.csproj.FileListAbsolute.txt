@@ -1,0 +1,2 @@
+E:\ComIOP\Common\obj\Debug\UA COM Interop Library.csprojResolveAssemblyReference.cache
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\ComIOP\Common\obj\Debug\UA COM Interop Library.csprojResolveAssemblyReference.cache

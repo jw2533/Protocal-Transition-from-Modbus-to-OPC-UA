@@ -1,0 +1,56 @@
+D:\Modbus\Modbus TCP Client\Modbus TCP Client\bin\Debug\Modbus TCP Client.exe
+D:\Modbus\Modbus TCP Client\Modbus TCP Client\bin\Debug\Modbus TCP Client.pdb
+D:\Modbus\Modbus TCP Client\Modbus TCP Client\obj\Debug\Modbus TCP Client.csprojResolveAssemblyReference.cache
+D:\Modbus\Modbus TCP Client\Modbus TCP Client\obj\Debug\Modbus_TCP_Client.Form1.resources
+D:\Modbus\Modbus TCP Client\Modbus TCP Client\obj\Debug\Modbus_TCP_Client.Properties.Resources.resources
+D:\Modbus\Modbus TCP Client\Modbus TCP Client\obj\Debug\Modbus TCP Client.csproj.GenerateResource.Cache
+D:\Modbus\Modbus TCP Client\Modbus TCP Client\obj\Debug\Modbus TCP Client.exe
+D:\Modbus\Modbus TCP Client\Modbus TCP Client\obj\Debug\Modbus TCP Client.pdb
+E:\vs工程\Modbus TCP Client\Modbus TCP Client\obj\Debug\Modbus TCP Client.exe
+E:\vs工程\Modbus TCP Client\Modbus TCP Client\obj\Debug\Modbus TCP Client.pdb
+E:\vs工程\Modbus TCP Client\Modbus TCP Client\bin\Debug\Modbus TCP Client.exe
+E:\vs工程\Modbus TCP Client\Modbus TCP Client\bin\Debug\Modbus TCP Client.pdb
+E:\vs工程\Modbus TCP Client\Modbus TCP Client\obj\Debug\Modbus TCP Client.csprojResolveAssemblyReference.cache
+E:\vs工程\Modbus TCP Client\Modbus TCP Client\obj\Debug\Modbus_TCP_Client.Form1.resources
+E:\vs工程\Modbus TCP Client\Modbus TCP Client\obj\Debug\Modbus_TCP_Client.Properties.Resources.resources
+E:\vs工程\Modbus TCP Client\Modbus TCP Client\obj\Debug\Modbus TCP Client.csproj.GenerateResource.Cache
+E:\vs工程\Modbus TCP Client   V1.0\Modbus TCP Client\obj\Debug\Modbus TCP Client.exe
+E:\vs工程\Modbus TCP Client   V1.0\Modbus TCP Client\obj\Debug\Modbus TCP Client.pdb
+E:\vs工程\Modbus TCP Client   V1.0\Modbus TCP Client\bin\Debug\Modbus TCP Client.exe
+E:\vs工程\Modbus TCP Client   V1.0\Modbus TCP Client\bin\Debug\Modbus TCP Client.pdb
+E:\vs工程\Modbus TCP Client   V1.0\Modbus TCP Client\obj\Debug\Modbus TCP Client.csprojResolveAssemblyReference.cache
+E:\vs工程\Modbus TCP Client   V1.0\Modbus TCP Client\obj\Debug\Modbus_TCP_Client.Form1.resources
+E:\vs工程\Modbus TCP Client   V1.0\Modbus TCP Client\obj\Debug\Modbus_TCP_Client.Properties.Resources.resources
+E:\vs工程\Modbus TCP Client   V1.0\Modbus TCP Client\obj\Debug\Modbus TCP Client.csproj.GenerateResource.Cache
+E:\vs工程\Modbus TCP Client   V2.0\Modbus TCP Client\obj\Debug\Modbus TCP Client.exe
+E:\vs工程\Modbus TCP Client   V2.0\Modbus TCP Client\obj\Debug\Modbus TCP Client.pdb
+E:\vs工程\Modbus TCP Client   V2.0\Modbus TCP Client\bin\Debug\Modbus TCP Client.exe
+E:\vs工程\Modbus TCP Client   V2.0\Modbus TCP Client\bin\Debug\Modbus TCP Client.pdb
+E:\vs工程\Modbus TCP Client   V2.0\Modbus TCP Client\obj\Debug\Modbus TCP Client.csprojResolveAssemblyReference.cache
+E:\vs工程\Modbus TCP Client   V2.0\Modbus TCP Client\obj\Debug\Modbus_TCP_Client.Form1.resources
+E:\vs工程\Modbus TCP Client   V2.0\Modbus TCP Client\obj\Debug\Modbus_TCP_Client.Properties.Resources.resources
+E:\vs工程\Modbus TCP Client   V2.0\Modbus TCP Client\obj\Debug\Modbus TCP Client.csproj.GenerateResource.Cache
+E:\vs工程\Modbus TCP Client   V3.0\Modbus TCP Client\obj\Debug\Modbus TCP Client.exe
+E:\vs工程\Modbus TCP Client   V3.0\Modbus TCP Client\obj\Debug\Modbus TCP Client.pdb
+E:\vs工程\Modbus TCP Client   V3.0\Modbus TCP Client\bin\Debug\Modbus TCP Client.exe
+E:\vs工程\Modbus TCP Client   V3.0\Modbus TCP Client\bin\Debug\Modbus TCP Client.pdb
+E:\vs工程\Modbus TCP Client   V3.0\Modbus TCP Client\obj\Debug\Modbus TCP Client.csprojResolveAssemblyReference.cache
+E:\vs工程\Modbus TCP Client   V3.0\Modbus TCP Client\obj\Debug\Modbus_TCP_Client.Form1.resources
+E:\vs工程\Modbus TCP Client   V3.0\Modbus TCP Client\obj\Debug\Modbus_TCP_Client.Properties.Resources.resources
+E:\vs工程\Modbus TCP Client   V3.0\Modbus TCP Client\obj\Debug\Modbus TCP Client.csproj.GenerateResource.Cache
+E:\vs工程\Modbus TCP Client   V4.0\Modbus TCP Client\obj\Debug\Modbus TCP Client.exe
+E:\vs工程\Modbus TCP Client   V4.0\Modbus TCP Client\obj\Debug\Modbus TCP Client.pdb
+E:\vs工程\Modbus TCP Client   V4.0\Modbus TCP Client\obj\Debug\Modbus TCP Client.csprojResolveAssemblyReference.cache
+E:\vs工程\Modbus TCP Client   V4.0\Modbus TCP Client\obj\Debug\Modbus_TCP_Client.Form1.resources
+E:\vs工程\Modbus TCP Client   V4.0\Modbus TCP Client\obj\Debug\Modbus_TCP_Client.Properties.Resources.resources
+E:\vs工程\Modbus TCP Client   V4.0\Modbus TCP Client\obj\Debug\Modbus TCP Client.csproj.GenerateResource.Cache
+E:\vs工程\Modbus TCP Client   V4.0\Modbus TCP Client\bin\Debug\Modbus TCP Client.exe
+E:\vs工程\Modbus TCP Client   V4.0\Modbus TCP Client\bin\Debug\Modbus TCP Client.pdb
+E:\vs工程\Modbus TCP Client   V5.0\Modbus TCP Client\obj\Debug\Modbus TCP Client.exe
+E:\vs工程\Modbus TCP Client   V5.0\Modbus TCP Client\obj\Debug\Modbus TCP Client.pdb
+E:\vs工程\Modbus TCP Client   V5.0\Modbus TCP Client\bin\Debug\Modbus TCP Client.exe
+E:\vs工程\Modbus TCP Client   V5.0\Modbus TCP Client\bin\Debug\Modbus TCP Client.pdb
+E:\vs工程\Modbus TCP Client   V5.0\Modbus TCP Client\obj\Debug\Modbus TCP Client.csprojResolveAssemblyReference.cache
+E:\vs工程\Modbus TCP Client   V5.0\Modbus TCP Client\obj\Debug\Modbus_TCP_Client.Form1.resources
+E:\vs工程\Modbus TCP Client   V5.0\Modbus TCP Client\obj\Debug\Modbus_TCP_Client.Properties.Resources.resources
+E:\vs工程\Modbus TCP Client   V5.0\Modbus TCP Client\obj\Debug\Modbus TCP Client.csproj.GenerateResource.Cache

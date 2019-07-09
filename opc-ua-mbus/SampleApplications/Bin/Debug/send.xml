@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+   <ipadd>111.186.123.168</ipadd>
+   <port>502</port>
+   <SampleInterval>1000</SampleInterval>
+   <Building1>
+      <buildingname>翔英大楼</buildingname>
+      <Value1>
+         <valuename>power702</valuename>
+	     <address>A0 A1 A2 A3 A4 A5 A6</address>
+		 <class>power</class>
+	     <place>702</place>
+      </Value1> 
+      <Value2>
+         <valuename>water704</valuename>
+	     <address>A0 A1 A2 A3 A4 A5 A7</address>
+	     <class>water</class>
+	     <place>704</place>
+      </Value2> 
+   </Building1> 
+   <Building2>
+      <buildingname>宿舍Q楼</buildingname>
+      <Value1>
+         <valuename>powerQ505</valuename>
+	     <address>A0 A1 A2 A3 A4 A5 A6</address>
+       	 <class>power</class>
+	     <place>Q505</place>
+      </Value1> 
+      <Value2>
+         <valuename>waterQ505</valuename>
+	     <address>A0 A1 A2 A3 A4 A5 A7</address>
+	     <class>water</class>
+	     <place>Q505</place>
+      </Value2> 
+    </Building2>
+</config>

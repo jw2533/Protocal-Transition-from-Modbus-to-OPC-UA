@@ -1,0 +1,7 @@
+
+PID:4488 ************************* Logging started at 11/10/2017 14:42:45 *************************
+4488 - 14:42:45.671 Checking application instance certificate.
+4488 - 14:42:45.686 Checking application instance certificate. CN=UA Sample Server, DC=Ayo
+4488 - 14:42:45.764 Checking domains in certificate. CN=UA Sample Server, DC=Ayo
+4488 - 14:42:45.780 Adding certificate to discovery server trust list.
+4488 - 14:42:46.045 The server is starting.

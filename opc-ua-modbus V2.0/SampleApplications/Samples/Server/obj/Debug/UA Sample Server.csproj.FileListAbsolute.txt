@@ -1,0 +1,44 @@
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\bin\Debug\Opc.Ua.SampleServer.Config.xml
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\bin\Debug\Opc.Ua.SampleServer.exe.config
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\bin\Debug\Opc.Ua.SampleServer.exe
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\bin\Debug\Opc.Ua.SampleServer.pdb
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Server\obj\Debug\UA Sample Server.csprojResolveAssemblyReference.cache
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Server\obj\Debug\Opc.Ua.Sample.Properties.Resources.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Server\obj\Debug\Opc.Ua.Sample.ServerDiagnosticsCtrl.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Server\obj\Debug\Opc.Ua.Sample.ServerForm.resources
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Server\obj\Debug\UA Sample Server.csproj.GenerateResource.Cache
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Server\obj\Debug\Opc.Ua.SampleServer.exe
+E:\opc-ua-1.02-.net-stackandsamples-336.0-20150707\SampleApplications\Samples\Server\obj\Debug\Opc.Ua.SampleServer.pdb
+E:\opc-ua-fianl\SampleApplications\bin\Debug\Opc.Ua.SampleServer.Config.xml
+E:\opc-ua-fianl\SampleApplications\bin\Debug\Opc.Ua.SampleServer.exe.config
+E:\opc-ua-fianl\SampleApplications\bin\Debug\Opc.Ua.SampleServer.exe
+E:\opc-ua-fianl\SampleApplications\bin\Debug\Opc.Ua.SampleServer.pdb
+E:\opc-ua-fianl\SampleApplications\Samples\Server\obj\Debug\UA Sample Server.csprojResolveAssemblyReference.cache
+E:\opc-ua-fianl\SampleApplications\Samples\Server\obj\Debug\Opc.Ua.Sample.Properties.Resources.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Server\obj\Debug\Opc.Ua.Sample.ServerDiagnosticsCtrl.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Server\obj\Debug\Opc.Ua.Sample.ServerForm.resources
+E:\opc-ua-fianl\SampleApplications\Samples\Server\obj\Debug\UA Sample Server.csproj.GenerateResource.Cache
+E:\opc-ua-fianl\SampleApplications\Samples\Server\obj\Debug\Opc.Ua.SampleServer.exe
+E:\opc-ua-fianl\SampleApplications\Samples\Server\obj\Debug\Opc.Ua.SampleServer.pdb
+E:\opc-ua-mbus\SampleApplications\bin\Debug\Opc.Ua.SampleServer.Config.xml
+E:\opc-ua-mbus\SampleApplications\bin\Debug\Opc.Ua.SampleServer.exe.config
+E:\opc-ua-mbus\SampleApplications\bin\Debug\Opc.Ua.SampleServer.exe
+E:\opc-ua-mbus\SampleApplications\bin\Debug\Opc.Ua.SampleServer.pdb
+E:\opc-ua-mbus\SampleApplications\Samples\Server\obj\Debug\UA Sample Server.csprojResolveAssemblyReference.cache
+E:\opc-ua-mbus\SampleApplications\Samples\Server\obj\Debug\Opc.Ua.Sample.Properties.Resources.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Server\obj\Debug\Opc.Ua.Sample.ServerDiagnosticsCtrl.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Server\obj\Debug\Opc.Ua.Sample.ServerForm.resources
+E:\opc-ua-mbus\SampleApplications\Samples\Server\obj\Debug\UA Sample Server.csproj.GenerateResource.Cache
+E:\opc-ua-mbus\SampleApplications\Samples\Server\obj\Debug\Opc.Ua.SampleServer.exe
+E:\opc-ua-mbus\SampleApplications\Samples\Server\obj\Debug\Opc.Ua.SampleServer.pdb
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\bin\Debug\Opc.Ua.SampleServer.Config.xml
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\bin\Debug\Opc.Ua.SampleServer.exe.config
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\bin\Debug\Opc.Ua.SampleServer.exe
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\bin\Debug\Opc.Ua.SampleServer.pdb
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Server\obj\Debug\UA Sample Server.csprojResolveAssemblyReference.cache
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Server\obj\Debug\Opc.Ua.Sample.Properties.Resources.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Server\obj\Debug\Opc.Ua.Sample.ServerDiagnosticsCtrl.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Server\obj\Debug\Opc.Ua.Sample.ServerForm.resources
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Server\obj\Debug\UA Sample Server.csproj.GenerateResource.Cache
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Server\obj\Debug\Opc.Ua.SampleServer.exe
+E:\vs工程\opc-ua-modbus V1.0\SampleApplications\Samples\Server\obj\Debug\Opc.Ua.SampleServer.pdb
